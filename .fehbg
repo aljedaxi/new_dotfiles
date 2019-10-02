@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-center --image-bg 'black' '/home/aljedaxi/.BG.png' 

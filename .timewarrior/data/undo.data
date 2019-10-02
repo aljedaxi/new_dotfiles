@@ -1,0 +1,1032 @@
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T041743Z","tags":["test"]}
+txn:
+  type: interval
+  before: {"start":"20190831T041743Z","tags":["test"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T041743Z","end":"20190831T041750Z","tags":["test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T042313Z","tags":["avalanche"]}
+txn:
+  type: interval
+  before: {"start":"20190831T042313Z","tags":["avalanche"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T042313Z","end":"20190831T042656Z","tags":["avalanche"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T044216Z","tags":["test"]}
+txn:
+  type: interval
+  before: {"start":"20190831T044216Z","tags":["test"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T044216Z","end":"20190831T044234Z","tags":["test"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T045555Z","tags":["avalanche"]}
+txn:
+  type: interval
+  before: {"start":"20190831T045555Z","tags":["avalanche"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T045555Z","end":"20190831T050340Z","tags":["avalanche"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T050340Z","tags":["avalanch","check if decision_points.id = (6516, 6657) are duplicates"]}
+txn:
+  type: interval
+  before: {"start":"20190831T050340Z","tags":["avalanch","check if decision_points.id = (6516, 6657) are duplicates"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T050340Z","end":"20190831T050812Z","tags":["avalanch","check if decision_points.id = (6516, 6657) are duplicates"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T194450Z","tags":["ask mark about the decision points with nothing nearby","avalanch"]}
+txn:
+  type: interval
+  before: {"start":"20190831T194450Z","tags":["ask mark about the decision points with nothing nearby","avalanch"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T194450Z","end":"20190831T211344Z","tags":["ask mark about the decision points with nothing nearby","avalanch"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T213942Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: {"start":"20190831T213942Z","tags":["initial research","troy"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T213942Z","end":"20190831T214211Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T215125Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: {"start":"20190831T215125Z","tags":["initial research","troy"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T215125Z","end":"20190831T223932Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T234125Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: {"start":"20190831T234125Z","tags":["initial research","troy"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190831T234125Z","end":"20190831T235557Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T015814Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: {"start":"20190901T015814Z","tags":["initial research","troy"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T015814Z","end":"20190901T015929Z","tags":["initial research","troy"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T195037Z","tags":["avalanch","extract warnings for the two broken kml folders"]}
+txn:
+  type: interval
+  before: {"start":"20190901T195037Z","tags":["avalanch","extract warnings for the two broken kml folders"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T195037Z","end":"20190901T202654Z","tags":["avalanch","extract warnings for the two broken kml folders"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T203129Z","tags":["avalanch","compare broken_areas.yml against the datbase"]}
+txn:
+  type: interval
+  before: {"start":"20190901T203129Z","tags":["avalanch","compare broken_areas.yml against the datbase"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T203129Z","end":"20190901T204343Z","tags":["avalanch","compare broken_areas.yml against the datbase"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T205058Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+txn:
+  type: interval
+  before: {"start":"20190901T205058Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T205058Z","end":"20190901T210029Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T212949Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+txn:
+  type: interval
+  before: {"start":"20190901T212949Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T212949Z","end":"20190901T213825Z","tags":["avalanch","manually check the decision point with nothing within 100 meters"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T233857Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: {"start":"20190901T233857Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190901T233857Z","end":"20190902T000026Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T000135Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: {"start":"20190902T000135Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T000135Z","end":"20190902T000847Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T041250Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: {"start":"20190902T041250Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T041250Z","end":"20190902T041447Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T042854Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: {"start":"20190902T042854Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190902T042854Z","end":"20190902T043407Z","tags":["avalanch","see what else from the kml have to be added to the database"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T023046Z","tags":["avalanch","insert pro and super bowls"]}
+txn:
+  type: interval
+  before: {"start":"20190903T023046Z","tags":["avalanch","insert pro and super bowls"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T023046Z","end":"20190903T030232Z","tags":["avalanch","insert pro and super bowls"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","end":"20190904T211358Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190904T061358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","end":"20190904T061358Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190903T201358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: {"start":"20190903T195238Z","end":"20190903T201358Z","tags":["meeting","utg"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190903T195238Z","end":"20190903T211358Z","tags":["meeting","utg"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190904T222715Z","tags":["avalanch","insert pro and super bowls"]}
+txn:
+  type: interval
+  before: {"start":"20190904T222715Z","tags":["avalanch","insert pro and super bowls"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190904T222715Z","end":"20190904T231542Z","tags":["avalanch","insert pro and super bowls"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190908T021640Z","tags":["avalanche","send email saying phase one is done"]}
+txn:
+  type: interval
+  before: {"start":"20190908T021640Z","tags":["avalanche","send email saying phase one is done"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190908T021640Z","end":"20190908T022855Z","tags":["avalanche","send email saying phase one is done"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190908T023209Z","tags":["avalanch","plan phase two"]}
+txn:
+  type: interval
+  before: {"start":"20190908T023209Z","tags":["avalanch","plan phase two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190908T023209Z","end":"20190908T033130Z","tags":["avalanch","plan phase two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190909T234609Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190909T234609Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190909T234609Z","end":"20190910T001607Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T064232Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190910T064232Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T064232Z","end":"20190910T081414Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T222418Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190910T222418Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T222418Z","end":"20190910T231343Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T235541Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190910T235541Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190910T235541Z","end":"20190911T014326Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T052543Z","tags":["UTG","tabulate weekend times"]}
+txn:
+  type: interval
+  before: {"start":"20190912T052543Z","tags":["UTG","tabulate weekend times"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T052543Z","end":"20190912T055044Z","tags":["UTG","tabulate weekend times"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T174703Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190912T174703Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T174703Z","end":"20190912T190618Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T201028Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190912T201028Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T201028Z","end":"20190912T205202Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T205507Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: {"start":"20190912T205507Z","tags":["avalanche","plan phase 2"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T205507Z","end":"20190912T210553Z","tags":["avalanche","plan phase 2"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T212044Z","tags":["avalanche","documenting to_GeoJSON.js"]}
+txn:
+  type: interval
+  before: {"start":"20190912T212044Z","tags":["avalanche","documenting to_GeoJSON.js"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190912T212044Z","end":"20190912T223829Z","tags":["avalanche","documenting to_GeoJSON.js"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190913T081217Z","tags":["avalanche","write email declaring to_GeoJSON is done"]}
+txn:
+  type: interval
+  before: {"start":"20190913T081217Z","tags":["avalanche","write email declaring to_GeoJSON is done"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190913T081217Z","end":"20190913T082922Z","tags":["avalanche","write email declaring to_GeoJSON is done"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T191352Z","tags":["avalanche","fix to_geoJSON.js"]}
+txn:
+  type: interval
+  before: {"start":"20190914T191352Z","tags":["avalanche","fix to_geoJSON.js"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T191352Z","end":"20190914T191746Z","tags":["avalanche","fix to_geoJSON.js"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T191819Z","tags":["avalanche","write KML returning code"]}
+txn:
+  type: interval
+  before: {"start":"20190914T191819Z","tags":["avalanche","write KML returning code"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T191819Z","end":"20190914T194141Z","tags":["avalanche","write KML returning code"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T220934Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: {"start":"20190914T220934Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T220934Z","end":"20190914T224357Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T224420Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: {"start":"20190914T224420Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T224420Z","end":"20190914T225839Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T233612Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: {"start":"20190914T233612Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190914T233612Z","end":"20190914T234121Z","tags":["avalanche","move to_GeoJSON.js away from async...await"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190916T235449Z","tags":["avalanche","checkout the github issue"]}
+txn:
+  type: interval
+  before: {"start":"20190916T235449Z","tags":["avalanche","checkout the github issue"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190916T235449Z","end":"20190917T003057Z","tags":["avalanche","checkout the github issue"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T003106Z","tags":["avalanche","checkout the github issue"]}
+txn:
+  type: interval
+  before: {"start":"20190917T003106Z","tags":["avalanche","checkout the github issue"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T003106Z","end":"20190917T004249Z","tags":["avalanche","checkout the github issue"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004249Z","tags":["avalanche","move all requires to the top","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T004249Z","tags":["avalanche","move all requires to the top","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004249Z","end":"20190917T004930Z","tags":["avalanche","move all requires to the top","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004930Z","tags":["avalanche","make list of things to do","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T004930Z","tags":["avalanche","make list of things to do","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004930Z","end":"20190917T004942Z","tags":["avalanche","make list of things to do","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T004930Z","tags":["avalanche","make list of things to do","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004930Z","end":"20190917T004945Z","tags":["avalanche","make list of things to do","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T004930Z","tags":["avalanche","make list of things to do","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T004930Z","end":"20190917T005540Z","tags":["avalanche","make list of things to do","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T010934Z","tags":["UTG","when did ember go to UTG HQ?"]}
+txn:
+  type: interval
+  before: {"start":"20190917T010934Z","tags":["UTG","when did ember go to UTG HQ?"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T010934Z","end":"20190917T011225Z","tags":["UTG","when did ember go to UTG HQ?"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T014117Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T014117Z","tags":["avalanche","get a linter and lint","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T014117Z","end":"20190917T015315Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T032633Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T032633Z","tags":["avalanche","get a linter and lint","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T032633Z","end":"20190917T032643Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T033917Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T033917Z","tags":["avalanche","get a linter and lint","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T033917Z","end":"20190917T035554Z","tags":["avalanche","get a linter and lint","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T040026Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T040026Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T040026Z","end":"20190917T040203Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T040227Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T040227Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T040227Z","end":"20190917T040233Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T202910Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T202910Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T202910Z","end":"20190917T211444Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T214235Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190917T214235Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190917T214235Z","end":"20190917T220434Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T044234Z","tags":["interfuse","rethink architecture","the_left"]}
+txn:
+  type: interval
+  before: {"start":"20190918T044234Z","tags":["interfuse","rethink architecture","the_left"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T044234Z","end":"20190918T050900Z","tags":["interfuse","rethink architecture","the_left"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T204438Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190918T204438Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T204438Z","end":"20190918T212834Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T213835Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190918T213835Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T213835Z","end":"20190918T220330Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T220818Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190918T220818Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T220818Z","end":"20190918T224708Z","tags":["avalanche","get rid of classes, async/await, and generators","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T224712Z","tags":["avalanche","check the columns you're currently using against the requirements","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190918T224712Z","tags":["avalanche","check the columns you're currently using against the requirements","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190918T224712Z","end":"20190918T225216Z","tags":["avalanche","check the columns you're currently using against the requirements","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T023758Z","tags":["avalanche","bounding box?","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190919T023758Z","tags":["avalanche","bounding box?","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T023758Z","end":"20190919T033223Z","tags":["avalanche","bounding box?","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T201446Z","tags":["avalanche","bounding box?","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190919T201446Z","tags":["avalanche","bounding box?","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T201446Z","end":"20190919T201601Z","tags":["avalanche","bounding box?","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T201601Z","tags":["avalanche","phase_two","replace classes"]}
+txn:
+  type: interval
+  before: {"start":"20190919T201601Z","tags":["avalanche","phase_two","replace classes"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T201601Z","end":"20190919T202356Z","tags":["avalanche","phase_two","replace classes"]}
+txn:
+  type: interval
+  before: {"start":"20190919T201601Z","tags":["avalanche","phase_two","replace classes"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T201601Z","end":"20190919T202356Z","tags":["avalanche","phase_two","replace classes"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T211919Z","tags":["avalanche","phase_two","replace classes"]}
+txn:
+  type: interval
+  before: {"start":"20190919T211919Z","tags":["avalanche","phase_two","replace classes"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T211919Z","end":"20190919T214600Z","tags":["avalanche","phase_two","replace classes"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T215705Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190919T215705Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190919T215705Z","end":"20190919T225108Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190920T192930Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190920T192930Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190920T192930Z","end":"20190920T201948Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190920T204544Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190920T204544Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190920T204544Z","end":"20190920T205111Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T075525Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190921T075525Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T075525Z","end":"20190921T082505Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T201757Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190921T201757Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T201757Z","end":"20190921T212852Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T214629Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190921T214629Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T214629Z","end":"20190921T215334Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T215943Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190921T215943Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T215943Z","end":"20190921T220326Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T224926Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190921T224926Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190921T224926Z","end":"20190921T232830Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T022401Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: {"start":"20190922T022401Z","tags":["avalanche","phase_two","return kml"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T022401Z","end":"20190922T022404Z","tags":["avalanche","phase_two","return kml"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T022407Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190922T022407Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T022407Z","end":"20190922T044235Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T053021Z","tags":["avalanche","make geometry work","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190922T053021Z","tags":["avalanche","make geometry work","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T053021Z","end":"20190922T071833Z","tags":["avalanche","make geometry work","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T072048Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190922T072048Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190922T072048Z","end":"20190922T074751Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T000331Z","tags":["avalanche","now zones don't work anymore","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T000331Z","tags":["avalanche","now zones don't work anymore","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T000331Z","end":"20190923T003240Z","tags":["avalanche","now zones don't work anymore","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T003246Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T003246Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T003246Z","end":"20190923T020851Z","tags":["add styling to the kml returning code","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T035230Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T035230Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T035230Z","end":"20190923T035352Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T035352Z","tags":["all the lines don't have width","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T035352Z","tags":["all the lines don't have width","avalanche","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T035352Z","end":"20190923T035355Z","tags":["all the lines don't have width","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T035352Z","tags":["all the lines don't have width","avalanche","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T035352Z","end":"20190923T044914Z","tags":["all the lines don't have width","avalanche","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T044933Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T044933Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T044933Z","end":"20190923T065612Z","tags":["avalanche","figure out how to url icons","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T065620Z","tags":["avalanche","make decision_points work","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20190923T065620Z","tags":["avalanche","make decision_points work","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T065620Z","end":"20190923T073635Z","tags":["avalanche","make decision_points work","phase_two"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T090638Z","tags":["avalanche","phase_two","refactoring"]}
+txn:
+  type: interval
+  before: {"start":"20190923T090638Z","tags":["avalanche","phase_two","refactoring"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T090638Z","end":"20190923T092302Z","tags":["avalanche","phase_two","refactoring"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T211537Z","tags":["avalanche","phase_two","refactoring"]}
+txn:
+  type: interval
+  before: {"start":"20190923T211537Z","tags":["avalanche","phase_two","refactoring"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20190923T211537Z","end":"20190924T083617Z","tags":["avalanche","phase_two","refactoring"]}
+txn:
+  type: interval
+  before: 
+  after: {"start":"20191001T200208Z","tags":["avalanche","embed images in the KML","phase_two"]}
+txn:
+  type: interval
+  before: {"start":"20191001T200208Z","tags":["avalanche","embed images in the KML","phase_two"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"start":"20191001T200208Z","end":"20191001T204057Z","tags":["avalanche","embed images in the KML","phase_two"]}

@@ -1,0 +1,1589 @@
+time 1559161952
+new [description:"make bookletting optional" entry:"1559161952" modified:"1559161952" status:"pending" uuid:"39ea6c63-fb35-46ee-a788-295f414f3abd"]
+---
+time 1559162798
+old [description:"make bookletting optional" entry:"1559161952" modified:"1559161952" status:"pending" uuid:"39ea6c63-fb35-46ee-a788-295f414f3abd"]
+new [description:"make bookletting optional" end:"1559162798" entry:"1559161952" modified:"1559162798" status:"completed" uuid:"39ea6c63-fb35-46ee-a788-295f414f3abd"]
+---
+time 1559176007
+new [description:"contact page" entry:"1559176007" modified:"1559176007" status:"pending" uuid:"e8fa2055-ea7b-47bd-a23e-ec30465796f7"]
+---
+time 1559176013
+new [description:"reccomended reading page" entry:"1559176013" modified:"1559176013" status:"pending" uuid:"b5cf201f-1985-43d7-956a-1779f01fb235"]
+---
+time 1559176020
+new [description:"principles and stuff" entry:"1559176020" modified:"1559176020" status:"pending" uuid:"1b3884fb-c706-4ee7-9058-3b3b7c9cc2bb"]
+---
+time 1559205847
+old [description:"reccomended reading page" entry:"1559176013" modified:"1559176013" status:"pending" uuid:"b5cf201f-1985-43d7-956a-1779f01fb235"]
+new [description:"reccomended reading page" end:"1559205847" entry:"1559176013" modified:"1559205847" status:"completed" uuid:"b5cf201f-1985-43d7-956a-1779f01fb235"]
+---
+time 1559446342
+new [description:"contributers page" entry:"1559446342" modified:"1559446342" status:"pending" uuid:"d889d2db-cfc9-4e24-b7c3-dd192f5a67f3"]
+---
+time 1559495808
+new [description:"create a permeate zine database for practice" entry:"1559495808" modified:"1559495808" status:"pending" uuid:"48c1b958-e03f-41eb-9b92-fa20c8fb07e6"]
+---
+time 1560148133
+new [description:"add pdf interface" entry:"1560148133" modified:"1560148133" status:"pending" uuid:"2c22bddd-bde1-450b-83a0-ddd5caede1a5"]
+---
+time 1560150623
+new [description:"input pdf page into LaTex" entry:"1560150623" modified:"1560150623" status:"pending" uuid:"ac45123d-46b0-421e-8f40-068eef8aec88"]
+---
+time 1560150850
+new [description:"find way to get name of current python module" entry:"1560150850" modified:"1560150850" status:"pending" uuid:"b33f720f-9802-4abd-8320-9fb7ea60602d"]
+---
+time 1560297207
+old [description:"create a permeate zine database for practice" entry:"1559495808" modified:"1559495808" status:"pending" uuid:"48c1b958-e03f-41eb-9b92-fa20c8fb07e6"]
+new [description:"create a permeate zine database for practice" end:"1560297206" entry:"1559495808" modified:"1560297207" status:"deleted" uuid:"48c1b958-e03f-41eb-9b92-fa20c8fb07e6"]
+---
+time 1560298791
+new [description:"test pdf interface" entry:"1560298791" modified:"1560298791" status:"pending" uuid:"2b60200f-2e07-4bf8-a59e-53e0215321a5"]
+---
+time 1560298797
+old [description:"add pdf interface" entry:"1560148133" modified:"1560148133" status:"pending" uuid:"2c22bddd-bde1-450b-83a0-ddd5caede1a5"]
+new [description:"add pdf interface" end:"1560298797" entry:"1560148133" modified:"1560298797" status:"completed" uuid:"2c22bddd-bde1-450b-83a0-ddd5caede1a5"]
+---
+time 1560298797
+old [description:"input pdf page into LaTex" entry:"1560150623" modified:"1560150623" status:"pending" uuid:"ac45123d-46b0-421e-8f40-068eef8aec88"]
+new [description:"input pdf page into LaTex" end:"1560298797" entry:"1560150623" modified:"1560298797" status:"completed" uuid:"ac45123d-46b0-421e-8f40-068eef8aec88"]
+---
+time 1560429134
+old [description:"test pdf interface" entry:"1560298791" modified:"1560298791" status:"pending" uuid:"2b60200f-2e07-4bf8-a59e-53e0215321a5"]
+new [description:"test pdf interface" end:"1560429134" entry:"1560298791" modified:"1560429134" status:"completed" uuid:"2b60200f-2e07-4bf8-a59e-53e0215321a5"]
+---
+time 1560433542
+old [description:"find way to get name of current python module" entry:"1560150850" modified:"1560150850" status:"pending" uuid:"b33f720f-9802-4abd-8320-9fb7ea60602d"]
+new [description:"find way to get name of current python module" end:"1560433542" entry:"1560150850" modified:"1560433542" status:"completed" uuid:"b33f720f-9802-4abd-8320-9fb7ea60602d"]
+---
+time 1560433666
+old [description:"principles and stuff" entry:"1559176020" modified:"1559176020" status:"pending" uuid:"1b3884fb-c706-4ee7-9058-3b3b7c9cc2bb"]
+new [description:"principles and stuff" end:"1560433666" entry:"1559176020" modified:"1560433666" status:"completed" uuid:"1b3884fb-c706-4ee7-9058-3b3b7c9cc2bb"]
+---
+time 1560900199
+new [description:"troubleamongthestars.com" entry:"1560900199" modified:"1560900199" status:"pending" uuid:"539fa514-fa7b-4dec-bd02-6cb3171f95b7"]
+---
+time 1560900215
+new [description:"duotrope" entry:"1560900215" modified:"1560900215" status:"pending" uuid:"11bdbdbf-e0f1-4a9f-b322-f00375df9139"]
+---
+time 1560900355
+new [description:"going_for_coffee tom wayman or something, poetry anthology" entry:"1560900355" modified:"1560900355" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+---
+time 1560981191
+old [description:"contributers page" entry:"1559446342" modified:"1559446342" status:"pending" uuid:"d889d2db-cfc9-4e24-b7c3-dd192f5a67f3"]
+new [description:"contributers page" end:"1560981191" entry:"1559446342" modified:"1560981191" status:"completed" uuid:"d889d2db-cfc9-4e24-b7c3-dd192f5a67f3"]
+---
+time 1561165942
+new [description:"https:\/\/ukstore.anima.technology\/products\/anima-digital" entry:"1561165942" modified:"1561165942" status:"pending" uuid:"93643add-f0a7-49ec-862b-81a2d8dc640c"]
+---
+time 1561339238
+new [description:"markdown processing interface" entry:"1561339238" modified:"1561339238" status:"pending" uuid:"aab4694b-02d0-456c-a403-ed91b0dd901b"]
+---
+time 1561340507
+new [description:"implement index for GUI notes" entry:"1561340507" modified:"1561340507" status:"pending" uuid:"d6a38f49-5d47-4c40-8484-2d4d011843e3"]
+---
+time 1561842923
+old [description:"contact page" entry:"1559176007" modified:"1559176007" status:"pending" uuid:"e8fa2055-ea7b-47bd-a23e-ec30465796f7"]
+new [description:"contact page" entry:"1559176007" modified:"1561842923" project:"zine" status:"pending" uuid:"e8fa2055-ea7b-47bd-a23e-ec30465796f7"]
+---
+time 1561842956
+old [description:"duotrope" entry:"1560900215" modified:"1560900215" status:"pending" uuid:"11bdbdbf-e0f1-4a9f-b322-f00375df9139"]
+new [description:"duotrope" entry:"1560900215" modified:"1561842956" project:"zine" status:"pending" uuid:"11bdbdbf-e0f1-4a9f-b322-f00375df9139"]
+---
+time 1561848523
+new [description:"get me an email" entry:"1561848523" modified:"1561848523" status:"pending" uuid:"9db3b1e3-afbe-44af-b9fc-28767e2d795d"]
+---
+time 1561848530
+new [description:"get the rest of the reciepts" entry:"1561848530" modified:"1561848530" status:"pending" uuid:"f29132d0-959e-45a5-bf68-a66b460f4b04"]
+---
+time 1561935311
+new [description:"11th meeting" entry:"1561935311" modified:"1561935311" project:"UTG" status:"pending" uuid:"9d10c6cd-4c20-44d4-853f-de4a3315667c"]
+---
+time 1561935323
+new [description:"invite everyone to trello" entry:"1561935323" modified:"1561935323" project:"UTG" status:"pending" uuid:"61912801-1a02-43db-8baa-6c0835908a2d"]
+---
+time 1561935329
+new [description:"invite everyone to bitbucket" entry:"1561935329" modified:"1561935329" project:"UTG" status:"pending" uuid:"e09497a9-b8a0-46a2-80b7-87ec4c0e57ac"]
+---
+time 1561970910
+new [description:"write something brutal about how home sucks and the self is an illusion" entry:"1561970910" modified:"1561970910" status:"pending" uuid:"394a1cbb-6c61-4989-ba01-28c92d72831e"]
+---
+time 1561971636
+new [description:"ohne heimath" entry:"1561971636" modified:"1561971636" status:"pending" uuid:"f145b016-8cee-44ae-8759-549a4cc4e0a2"]
+---
+time 1562111424
+old [description:"get the rest of the reciepts" entry:"1561848530" modified:"1561848530" status:"pending" uuid:"f29132d0-959e-45a5-bf68-a66b460f4b04"]
+new [description:"get the rest of the reciepts" end:"1562111424" entry:"1561848530" modified:"1562111424" status:"completed" uuid:"f29132d0-959e-45a5-bf68-a66b460f4b04"]
+---
+time 1562605888
+old [description:"invite everyone to trello" entry:"1561935323" modified:"1561935323" project:"UTG" status:"pending" uuid:"61912801-1a02-43db-8baa-6c0835908a2d"]
+new [description:"invite everyone to trello" end:"1562605888" entry:"1561935323" modified:"1562605888" project:"UTG" status:"completed" uuid:"61912801-1a02-43db-8baa-6c0835908a2d"]
+---
+time 1562605888
+old [description:"invite everyone to bitbucket" entry:"1561935329" modified:"1561935329" project:"UTG" status:"pending" uuid:"e09497a9-b8a0-46a2-80b7-87ec4c0e57ac"]
+new [description:"invite everyone to bitbucket" end:"1562605888" entry:"1561935329" modified:"1562605888" project:"UTG" status:"completed" uuid:"e09497a9-b8a0-46a2-80b7-87ec4c0e57ac"]
+---
+time 1562887061
+old [description:"contact page" entry:"1559176007" modified:"1561842923" project:"zine" status:"pending" uuid:"e8fa2055-ea7b-47bd-a23e-ec30465796f7"]
+new [description:"contact page" end:"1562887061" entry:"1559176007" modified:"1562887061" project:"zine" status:"completed" uuid:"e8fa2055-ea7b-47bd-a23e-ec30465796f7"]
+---
+time 1562887066
+old [description:"11th meeting" entry:"1561935311" modified:"1561935311" project:"UTG" status:"pending" uuid:"9d10c6cd-4c20-44d4-853f-de4a3315667c"]
+new [description:"11th meeting" end:"1562887066" entry:"1561935311" modified:"1562887066" project:"UTG" status:"completed" uuid:"9d10c6cd-4c20-44d4-853f-de4a3315667c"]
+---
+time 1563322425
+old [description:"implement index for GUI notes" entry:"1561340507" modified:"1561340507" status:"pending" uuid:"d6a38f49-5d47-4c40-8484-2d4d011843e3"]
+new [description:"implement index for GUI notes" end:"1563322425" entry:"1561340507" modified:"1563322425" status:"completed" uuid:"d6a38f49-5d47-4c40-8484-2d4d011843e3"]
+---
+time 1563322425
+old [description:"get me an email" entry:"1561848523" modified:"1561848523" status:"pending" uuid:"9db3b1e3-afbe-44af-b9fc-28767e2d795d"]
+new [description:"get me an email" end:"1563322425" entry:"1561848523" modified:"1563322425" status:"completed" uuid:"9db3b1e3-afbe-44af-b9fc-28767e2d795d"]
+---
+time 1563322439
+old [description:"ohne heimath" entry:"1561971636" modified:"1561971636" status:"pending" uuid:"f145b016-8cee-44ae-8759-549a4cc4e0a2"]
+new [description:"ohne heimath" end:"1563322439" entry:"1561971636" modified:"1563322439" status:"completed" uuid:"f145b016-8cee-44ae-8759-549a4cc4e0a2"]
+---
+time 1563322443
+old [description:"write something brutal about how home sucks and the self is an illusion" entry:"1561970910" modified:"1561970910" status:"pending" uuid:"394a1cbb-6c61-4989-ba01-28c92d72831e"]
+new [description:"write something brutal about how home sucks and the self is an illusion" end:"1563322442" entry:"1561970910" modified:"1563322443" status:"deleted" uuid:"394a1cbb-6c61-4989-ba01-28c92d72831e"]
+---
+time 1563495953
+new [description:"sheduling.yml to calendar" entry:"1563495953" modified:"1563495953" status:"pending" uuid:"439c73a6-0982-4d60-9e82-c78528b1ede7"]
+---
+time 1563745681
+new [description:"git repo for qGIS project file" entry:"1563745681" modified:"1563745681" project:"avalanch" status:"pending" uuid:"bf64b163-76e3-4d4f-a2bf-575a10290e63"]
+---
+time 1563745687
+new [description:"ask about repos" entry:"1563745687" modified:"1563745687" project:"avalanch" status:"pending" uuid:"0df2cb40-ff53-4333-b29d-149a578e3f74"]
+---
+time 1564002286
+new [description:"licensing for images" entry:"1564002286" modified:"1564002286" project:"permeate" status:"pending" uuid:"74219bc1-05b6-4611-9ee2-afa0bc50691c"]
+---
+time 1564362405
+new [description:"daxiin env, which covers text in alltt and makes it input" entry:"1564362405" modified:"1564362405" project:"permeate" status:"pending" uuid:"2f26ab5b-a9f8-4050-a9b4-f6509760ee91"]
+---
+time 1564516720
+old [description:"licensing for images" entry:"1564002286" modified:"1564002286" project:"permeate" status:"pending" uuid:"74219bc1-05b6-4611-9ee2-afa0bc50691c"]
+new [description:"licensing for images" end:"1564516720" entry:"1564002286" modified:"1564516720" project:"permeate" status:"completed" uuid:"74219bc1-05b6-4611-9ee2-afa0bc50691c"]
+---
+time 1564516724
+old [description:"sheduling.yml to calendar" entry:"1563495953" modified:"1563495953" status:"pending" uuid:"439c73a6-0982-4d60-9e82-c78528b1ede7"]
+new [description:"sheduling.yml to calendar" end:"1564516724" entry:"1563495953" modified:"1564516724" status:"completed" uuid:"439c73a6-0982-4d60-9e82-c78528b1ede7"]
+---
+time 1564560899
+old [description:"git repo for qGIS project file" entry:"1563745681" modified:"1563745681" project:"avalanch" status:"pending" uuid:"bf64b163-76e3-4d4f-a2bf-575a10290e63"]
+new [description:"git repo for qGIS project file" end:"1564560899" entry:"1563745681" modified:"1564560899" project:"avalanch" status:"completed" uuid:"bf64b163-76e3-4d4f-a2bf-575a10290e63"]
+---
+time 1564560899
+old [description:"ask about repos" entry:"1563745687" modified:"1563745687" project:"avalanch" status:"pending" uuid:"0df2cb40-ff53-4333-b29d-149a578e3f74"]
+new [description:"ask about repos" end:"1564560899" entry:"1563745687" modified:"1564560899" project:"avalanch" status:"completed" uuid:"0df2cb40-ff53-4333-b29d-149a578e3f74"]
+---
+time 1564561551
+old [description:"going_for_coffee tom wayman or something, poetry anthology" entry:"1560900355" modified:"1560900355" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+new [description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1564561551" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+---
+time 1564561689
+old [description:"daxiin env, which covers text in alltt and makes it input" entry:"1564362405" modified:"1564362405" project:"permeate" status:"pending" uuid:"2f26ab5b-a9f8-4050-a9b4-f6509760ee91"]
+new [description:"daxiin env, which covers text in alltt and makes it input" end:"1564561689" entry:"1564362405" modified:"1564561689" project:"permeate" status:"completed" uuid:"2f26ab5b-a9f8-4050-a9b4-f6509760ee91"]
+---
+time 1564561732
+old [description:"markdown processing interface" entry:"1561339238" modified:"1561339238" status:"pending" uuid:"aab4694b-02d0-456c-a403-ed91b0dd901b"]
+new [description:"markdown processing interface" end:"1564561732" entry:"1561339238" modified:"1564561732" status:"completed" uuid:"aab4694b-02d0-456c-a403-ed91b0dd901b"]
+---
+time 1564561792
+old [description:"https:\/\/ukstore.anima.technology\/products\/anima-digital" entry:"1561165942" modified:"1561165942" status:"pending" uuid:"93643add-f0a7-49ec-862b-81a2d8dc640c"]
+new [description:"https:\/\/ukstore.anima.technology\/products\/anima-digital" end:"1564561792" entry:"1561165942" modified:"1564561792" status:"completed" uuid:"93643add-f0a7-49ec-862b-81a2d8dc640c"]
+---
+time 1564716241
+new [description:"go to 1 paragraph explanation of what permeate is" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"b489b53f-a698-49b6-96ed-3c698f7a6803"]
+---
+time 1564716241
+new [description:"write down everything that happened last launch party; use that to create a launch party creation guide" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"3b184275-84aa-49d0-8a99-fc4455094d14"]
+---
+time 1564716241
+new [description:"install scuttlebutt book discussion platform" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"49c066c9-3057-4728-a717-6c814caa66d0"]
+---
+time 1564722001
+old [description:"install scuttlebutt book discussion platform" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"49c066c9-3057-4728-a717-6c814caa66d0"]
+new [description:"install scuttlebutt book discussion platform" end:"1564722001" entry:"1564716241" modified:"1564722001" project:"permeate" status:"completed" uuid:"49c066c9-3057-4728-a717-6c814caa66d0"]
+---
+time 1564730641
+old [description:"write down everything that happened last launch party; use that to create a launch party creation guide" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"3b184275-84aa-49d0-8a99-fc4455094d14"]
+new [description:"write down everything that happened last launch party; use that to create a launch party creation guide" end:"1564730641" entry:"1564716241" modified:"1564730641" project:"permeate" status:"completed" uuid:"3b184275-84aa-49d0-8a99-fc4455094d14"]
+---
+time 1564799516
+new [description:"finalize agenda for upcoming meetings" entry:"1564799516" modified:"1564799516" project:"UTG" status:"pending" uuid:"9f3ae2b5-7983-47d9-8d4e-31bc35a58d83"]
+---
+time 1565060526
+old [description:"go to 1 paragraph explanation of what permeate is" entry:"1564716241" modified:"1564716241" project:"permeate" status:"pending" uuid:"b489b53f-a698-49b6-96ed-3c698f7a6803"]
+new [description:"go to 1 paragraph explanation of what permeate is" end:"1565060526" entry:"1564716241" modified:"1565060526" project:"permeate" status:"completed" uuid:"b489b53f-a698-49b6-96ed-3c698f7a6803"]
+---
+time 1565063932
+old [description:"finalize agenda for upcoming meetings" entry:"1564799516" modified:"1564799516" project:"UTG" status:"pending" uuid:"9f3ae2b5-7983-47d9-8d4e-31bc35a58d83"]
+new [description:"finalize agenda for upcoming meetings" end:"1565063932" entry:"1564799516" modified:"1565063932" project:"UTG" status:"completed" uuid:"9f3ae2b5-7983-47d9-8d4e-31bc35a58d83"]
+---
+time 1565064630
+old [description:"duotrope" entry:"1560900215" modified:"1561842956" project:"zine" status:"pending" uuid:"11bdbdbf-e0f1-4a9f-b322-f00375df9139"]
+new [description:"duotrope" end:"1565064630" entry:"1560900215" modified:"1565064630" project:"zine" status:"completed" uuid:"11bdbdbf-e0f1-4a9f-b322-f00375df9139"]
+---
+time 1565064671
+old [description:"troubleamongthestars.com" entry:"1560900199" modified:"1560900199" status:"pending" uuid:"539fa514-fa7b-4dec-bd02-6cb3171f95b7"]
+new [description:"troubleamongthestars.com" end:"1565064671" entry:"1560900199" modified:"1565064671" status:"completed" uuid:"539fa514-fa7b-4dec-bd02-6cb3171f95b7"]
+---
+time 1565064686
+new [description:"get your check in code for the flight" entry:"1565064686" modified:"1565064686" status:"pending" uuid:"58177c5f-08a7-49c8-a20d-86da831e68ed"]
+---
+time 1565134005
+new [description:"create list for homework" entry:"1565134005" modified:"1565134005" project:"UTG" status:"pending" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+---
+time 1565134049
+old [description:"create list for homework" entry:"1565134005" modified:"1565134005" project:"UTG" status:"pending" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+new [annotation_1565134049:"make sure you have the correct software version" description:"create list for homework" entry:"1565134005" modified:"1565134049" project:"UTG" status:"pending" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+---
+time 1565134063
+new [description:"get link to slack" entry:"1565134063" modified:"1565134063" project:"UTG" status:"pending" uuid:"91060404-daf2-4252-af97-113481946a97"]
+---
+time 1565134088
+new [description:"create a daily, weekly collection of instructor duties" entry:"1565134088" modified:"1565134088" project:"UTG" status:"pending" uuid:"b00f5784-e391-40ac-b061-e1fb277f626c"]
+---
+time 1565142415
+new [description:"send picture of turkishfest email list" entry:"1565142415" modified:"1565142415" project:"UTG" status:"pending" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+---
+time 1565142455
+old [description:"send picture of turkishfest email list" entry:"1565142415" modified:"1565142415" project:"UTG" status:"pending" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+new [annotation_1565142455:"it had to do with soem charity cat" description:"send picture of turkishfest email list" entry:"1565142415" modified:"1565142455" project:"UTG" status:"pending" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+---
+time 1565142472
+new [description:"incorporate" entry:"1565142472" modified:"1565142472" project:"UTG" status:"pending" uuid:"55a7ea0d-b8ae-4373-a2db-a423dc83f343"]
+---
+time 1565142495
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"have a contract meeting" entry:"1565142495" modified:"1565142495" project:"UTG" status:"pending" uuid:"164943a3-f55c-4ef0-9d5f-2f4a08dfb9f0"]
+---
+time 1565142505
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"write a contract" entry:"1565142505" modified:"1565142505" project:"UTG" status:"pending" uuid:"7449fcb3-067f-4bbd-ba7d-4e08fa14dcb4"]
+---
+time 1565142520
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"email the police" entry:"1565142520" modified:"1565142520" project:"UTG" status:"pending" uuid:"bdcd5dcb-59e1-4afb-b2fc-dbd30d7b0839"]
+---
+time 1565146537
+old [description:"get your check in code for the flight" entry:"1565064686" modified:"1565064686" status:"pending" uuid:"58177c5f-08a7-49c8-a20d-86da831e68ed"]
+new [description:"get your check in code for the flight" end:"1565146537" entry:"1565064686" modified:"1565146537" status:"completed" uuid:"58177c5f-08a7-49c8-a20d-86da831e68ed"]
+---
+time 1565152524
+old [annotation_1565134049:"make sure you have the correct software version" description:"create list for homework" entry:"1565134005" modified:"1565134049" project:"UTG" status:"pending" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+new [annotation_1565134049:"make sure you have the correct software version" description:"create list for homework" end:"1565152524" entry:"1565134005" modified:"1565152524" project:"UTG" status:"completed" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+---
+time 1565152637
+old [description:"get link to slack" entry:"1565134063" modified:"1565134063" project:"UTG" status:"pending" uuid:"91060404-daf2-4252-af97-113481946a97"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"get link to slack" entry:"1565134063" modified:"1565152637" project:"UTG" status:"pending" uuid:"91060404-daf2-4252-af97-113481946a97"]
+---
+time 1565238179
+new [description:"split GND doc into files" entry:"1565238179" modified:"1565238179" project:"perm" status:"pending" uuid:"4c9e1c16-3f16-4998-8975-1b2259ee586d"]
+---
+time 1565238327
+new [description:"comment scuttlebutt presentation" entry:"1565238327" modified:"1565238327" project:"perm" status:"pending" uuid:"a61e0998-a1ce-4aee-9eae-5f781997926e"]
+---
+time 1565238327
+new [description:"talk about art in the zine chat" entry:"1565238327" modified:"1565238327" project:"perm" status:"pending" uuid:"255d061d-a81b-4d2c-8859-72b1903c96d4"]
+---
+time 1565241119
+old [description:"split GND doc into files" entry:"1565238179" modified:"1565238179" project:"perm" status:"pending" uuid:"4c9e1c16-3f16-4998-8975-1b2259ee586d"]
+new [description:"split GND doc into files" end:"1565241119" entry:"1565238179" modified:"1565241119" project:"perm" status:"completed" uuid:"4c9e1c16-3f16-4998-8975-1b2259ee586d"]
+---
+time 1565244683
+old [description:"comment scuttlebutt presentation" entry:"1565238327" modified:"1565238327" project:"perm" status:"pending" uuid:"a61e0998-a1ce-4aee-9eae-5f781997926e"]
+new [description:"comment scuttlebutt presentation" end:"1565244683" entry:"1565238327" modified:"1565244683" project:"perm" status:"completed" uuid:"a61e0998-a1ce-4aee-9eae-5f781997926e"]
+---
+time 1565295983
+new [description:"ember' hours to the chat" entry:"1565295983" modified:"1565295983" project:"UTG" status:"pending" uuid:"90434a36-de3b-45b9-b878-01bc86f2cfab"]
+---
+time 1565296000
+new [description:"ember' hours to the timesheet" entry:"1565296000" modified:"1565296000" project:"UTG" status:"pending" uuid:"5bc15d97-96a2-47dc-ae6d-409c5e3b9be7"]
+---
+time 1565296005
+old [description:"ember' hours to the chat" entry:"1565295983" modified:"1565295983" project:"UTG" status:"pending" uuid:"90434a36-de3b-45b9-b878-01bc86f2cfab"]
+new [description:"ember' hours to the chat" end:"1565296004" entry:"1565295983" modified:"1565296005" project:"UTG" status:"deleted" uuid:"90434a36-de3b-45b9-b878-01bc86f2cfab"]
+---
+time 1565317770
+new [description:"get hours for the Carmengay job" entry:"1565317770" modified:"1565317770" project:"UTG" status:"pending" uuid:"1a83d0e9-3bf4-4374-91c0-4ee503ee47b6"]
+---
+time 1565317913
+old [annotation_1565142455:"it had to do with soem charity cat" description:"send picture of turkishfest email list" entry:"1565142415" modified:"1565142455" project:"UTG" status:"pending" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+new [annotation_1565142455:"it had to do with soem charity cat" description:"send picture of turkishfest email list" end:"1565317913" entry:"1565142415" modified:"1565317913" project:"UTG" status:"completed" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+---
+time 1565317913
+old [description:"ember' hours to the timesheet" entry:"1565296000" modified:"1565296000" project:"UTG" status:"pending" uuid:"5bc15d97-96a2-47dc-ae6d-409c5e3b9be7"]
+new [description:"ember' hours to the timesheet" end:"1565317913" entry:"1565296000" modified:"1565317913" project:"UTG" status:"completed" uuid:"5bc15d97-96a2-47dc-ae6d-409c5e3b9be7"]
+---
+time 1565320972
+old [description:"get hours for the Carmengay job" entry:"1565317770" modified:"1565317770" project:"UTG" status:"pending" uuid:"1a83d0e9-3bf4-4374-91c0-4ee503ee47b6"]
+new [description:"get hours for the Carmengay job" end:"1565320972" entry:"1565317770" modified:"1565320972" project:"UTG" status:"completed" uuid:"1a83d0e9-3bf4-4374-91c0-4ee503ee47b6"]
+---
+time 1565592093
+new [description:"migrate cruxes to decision points" entry:"1565592093" modified:"1565592093" project:"avalanch" status:"pending" uuid:"589f19f3-86a8-4bf6-a477-39c12122c984"]
+---
+time 1565770747
+old [description:"migrate cruxes to decision points" entry:"1565592093" modified:"1565592093" project:"avalanch" status:"pending" uuid:"589f19f3-86a8-4bf6-a477-39c12122c984"]
+new [description:"migrate cruxes to decision points" end:"1565770747" entry:"1565592093" modified:"1565770747" project:"avalanch" status:"completed" uuid:"589f19f3-86a8-4bf6-a477-39c12122c984"]
+---
+time 1565770753
+new [description:"get home" entry:"1565770753" modified:"1565770753" status:"pending" uuid:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881"]
+---
+time 1565770775
+old [description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1564561551" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+new [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1565770775" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+---
+time 1565770775
+old [description:"talk about art in the zine chat" entry:"1565238327" modified:"1565238327" project:"perm" status:"pending" uuid:"255d061d-a81b-4d2c-8859-72b1903c96d4"]
+new [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"talk about art in the zine chat" entry:"1565238327" modified:"1565770775" project:"perm" status:"pending" uuid:"255d061d-a81b-4d2c-8859-72b1903c96d4"]
+---
+time 1566254420
+new [description:"create a column in the shapefiles called \"OBJECTID\" that autoincrements; use that as your external_id" entry:"1566254420" modified:"1566254420" project:"avalanch" status:"pending" uuid:"d9d9c9e7-d4e5-4ed2-b27a-d194f9f6baef"]
+---
+time 1566280458
+old [description:"create a column in the shapefiles called \"OBJECTID\" that autoincrements; use that as your external_id" entry:"1566254420" modified:"1566254420" project:"avalanch" status:"pending" uuid:"d9d9c9e7-d4e5-4ed2-b27a-d194f9f6baef"]
+new [description:"create a column in the shapefiles called \"OBJECTID\" that autoincrements; use that as your external_id" end:"1566280458" entry:"1566254420" modified:"1566280458" project:"avalanch" status:"completed" uuid:"d9d9c9e7-d4e5-4ed2-b27a-d194f9f6baef"]
+---
+time 1566284547
+new [description:"Allama Iqbal" entry:"1566284547" modified:"1566284547" priority:"L" project:"phi" status:"pending" uuid:"d7f4f997-7229-4bb4-98f4-ba486cbb2b65"]
+---
+time 1566284724
+new [description:"Cecil Taylor" entry:"1566284724" modified:"1566284724" priority:"L" status:"pending" uuid:"d5e70716-9e2b-415f-b649-a68f6b9b0175"]
+---
+time 1566284724
+new [description:"Kiva.org" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"fce100f8-3503-4563-9668-1d38f1d55142"]
+---
+time 1566284724
+new [description:"free software presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"1bf9c5a0-9a83-4ef2-98af-6cc1026c86fd"]
+---
+time 1566284724
+new [description:"speaking presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"b6a4c08d-34ce-4437-a04f-c04e5bf30f7a"]
+---
+time 1566284724
+new [description:"editing presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"fc7c7cb7-9b52-44d5-b524-62440ce2a7f0"]
+---
+time 1566284725
+new [description:"add an HTML interface to Jinja2 latexing" entry:"1566284725" modified:"1566284725" status:"pending" uuid:"c68d6a43-dbfe-4234-99fd-f9462f32f9be"]
+---
+time 1566284725
+new [description:"Old Fashioned at Heydon Block" entry:"1566284725" modified:"1566284725" status:"pending" uuid:"17d3dc00-0fdb-4db2-8d7d-36f09a29edfa"]
+---
+time 1566284871
+old [description:"Old Fashioned at Heydon Block" entry:"1566284725" modified:"1566284725" status:"pending" uuid:"17d3dc00-0fdb-4db2-8d7d-36f09a29edfa"]
+new [description:"Old Fashioned at Heydon Block" end:"1566284869" entry:"1566284725" modified:"1566284871" status:"deleted" uuid:"17d3dc00-0fdb-4db2-8d7d-36f09a29edfa"]
+---
+time 1566284954
+old [description:"Cecil Taylor" entry:"1566284724" modified:"1566284724" priority:"L" status:"pending" uuid:"d5e70716-9e2b-415f-b649-a68f6b9b0175"]
+new [description:"Cecil Taylor" end:"1566284952" entry:"1566284724" modified:"1566284954" priority:"L" status:"deleted" uuid:"d5e70716-9e2b-415f-b649-a68f6b9b0175"]
+---
+time 1566284958
+old [description:"Allama Iqbal" entry:"1566284547" modified:"1566284547" priority:"L" project:"phi" status:"pending" uuid:"d7f4f997-7229-4bb4-98f4-ba486cbb2b65"]
+new [description:"Allama Iqbal" end:"1566284957" entry:"1566284547" modified:"1566284958" priority:"L" project:"phi" status:"deleted" uuid:"d7f4f997-7229-4bb4-98f4-ba486cbb2b65"]
+---
+time 1566461137
+new [description:"see the images in avalanch\/split\/ and use them" entry:"1566461137" modified:"1566461137" project:"avalanch" status:"pending" uuid:"ba27c2f0-4556-4d1d-856a-ece9f701d9ea"]
+---
+time 1566572819
+new [description:"mod the insertion appendage so it inserts type into name" entry:"1566572819" modified:"1566572819" priority:"H" project:"avalanch" status:"pending" uuid:"e24e23ee-6c5d-408f-aca5-b4759ae4d968"]
+---
+time 1566574432
+old [description:"mod the insertion appendage so it inserts type into name" entry:"1566572819" modified:"1566572819" priority:"H" project:"avalanch" status:"pending" uuid:"e24e23ee-6c5d-408f-aca5-b4759ae4d968"]
+new [description:"mod the insertion appendage so it inserts type into name" end:"1566574432" entry:"1566572819" modified:"1566574432" priority:"H" project:"avalanch" status:"completed" uuid:"e24e23ee-6c5d-408f-aca5-b4759ae4d968"]
+---
+time 1566574442
+new [description:"run push.fish" entry:"1566574442" modified:"1566574442" project:"avalanch" status:"pending" uuid:"43802e7a-2d56-4c23-8dc9-e17334e78c41"]
+---
+time 1566574721
+new [description:"TODO.yml" entry:"1566574721" modified:"1566574721" project:"avalanch" status:"pending" uuid:"0ee53f80-1c45-4ea3-bc2c-20ef6bb893a1"]
+---
+time 1567043734
+old [description:"run push.fish" entry:"1566574442" modified:"1566574442" project:"avalanch" status:"pending" uuid:"43802e7a-2d56-4c23-8dc9-e17334e78c41"]
+new [description:"run push.fish" end:"1567043734" entry:"1566574442" modified:"1567043734" project:"avalanch" status:"completed" uuid:"43802e7a-2d56-4c23-8dc9-e17334e78c41"]
+---
+time 1567044024
+new [description:"DELETE FROM decision_points WHERE type = Crux" entry:"1567044024" modified:"1567044024" project:"avalanch" status:"pending" uuid:"62524d17-30b0-4166-b913-9e4f6fd5dde5"]
+---
+time 1567046380
+old [description:"TODO.yml" entry:"1566574721" modified:"1566574721" project:"avalanch" status:"pending" uuid:"0ee53f80-1c45-4ea3-bc2c-20ef6bb893a1"]
+new [description:"TODO.yml" end:"1567046380" entry:"1566574721" modified:"1567046380" project:"avalanch" status:"completed" uuid:"0ee53f80-1c45-4ea3-bc2c-20ef6bb893a1"]
+---
+time 1567047306
+old [description:"see the images in avalanch\/split\/ and use them" entry:"1566461137" modified:"1566461137" project:"avalanch" status:"pending" uuid:"ba27c2f0-4556-4d1d-856a-ece9f701d9ea"]
+new [description:"see the images in avalanch\/split\/ and use them" end:"1567047306" entry:"1566461137" modified:"1567047306" project:"avalanch" status:"completed" uuid:"ba27c2f0-4556-4d1d-856a-ece9f701d9ea"]
+---
+time 1567098050
+old [description:"DELETE FROM decision_points WHERE type = Crux" entry:"1567044024" modified:"1567044024" project:"avalanch" status:"pending" uuid:"62524d17-30b0-4166-b913-9e4f6fd5dde5"]
+new [description:"DELETE FROM decision_points WHERE type = Crux" end:"1567098050" entry:"1567044024" modified:"1567098050" project:"avalanch" status:"completed" uuid:"62524d17-30b0-4166-b913-9e4f6fd5dde5"]
+---
+time 1567139274
+new [description:"check for duplicate geometries in warnings.yml" entry:"1567139274" modified:"1567139274" project:"avalanch" status:"pending" uuid:"4da2138b-49f6-4a02-bf38-4f838ead8edc"]
+---
+time 1567227632
+new [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567227632" project:"avalanch" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+---
+time 1567227820
+old [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567227632" project:"avalanch" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+new [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567227820" project:"avalanch" start:"1567227817" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+---
+time 1567228092
+old [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567227820" project:"avalanch" start:"1567227817" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+new [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567228092" project:"avalanch" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+---
+time 1567228112
+old [description:"check if decision_points.id = (6516, 6657) are duplicates" entry:"1567227632" modified:"1567228092" project:"avalanch" status:"pending" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+new [description:"check if decision_points.id = (6516, 6657) are duplicates" end:"1567228111" entry:"1567227632" modified:"1567228112" project:"avalanch" status:"completed" uuid:"676e0935-f98e-4a63-b166-64eb032de177"]
+---
+time 1567228124
+old [description:"check for duplicate geometries in warnings.yml" entry:"1567139274" modified:"1567139274" project:"avalanch" status:"pending" uuid:"4da2138b-49f6-4a02-bf38-4f838ead8edc"]
+new [description:"check for duplicate geometries in warnings.yml" end:"1567228122" entry:"1567139274" modified:"1567228124" project:"avalanch" status:"deleted" uuid:"4da2138b-49f6-4a02-bf38-4f838ead8edc"]
+---
+time 1567228140
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"email the police" entry:"1565142520" modified:"1565142520" project:"UTG" status:"pending" uuid:"bdcd5dcb-59e1-4afb-b2fc-dbd30d7b0839"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"email the police" end:"1567228140" entry:"1565142520" modified:"1567228140" project:"UTG" status:"completed" uuid:"bdcd5dcb-59e1-4afb-b2fc-dbd30d7b0839"]
+---
+time 1567228270
+new [description:"figure out how to check on the decision points" entry:"1567228270" modified:"1567228270" project:"avalanch" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+---
+time 1567228299
+old [description:"figure out how to check on the decision points" entry:"1567228270" modified:"1567228270" project:"avalanch" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+new [description:"ask mark about the decision points with nothing nearby" entry:"1567228270" modified:"1567228299" project:"avalanch" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+---
+time 1567280690
+old [description:"ask mark about the decision points with nothing nearby" entry:"1567228270" modified:"1567228299" project:"avalanch" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+new [description:"ask mark about the decision points with nothing nearby" entry:"1567228270" modified:"1567280690" project:"avalanch" start:"1567280690" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+---
+time 1567283938
+new [description:"extract warnings for the two broken kml folders" entry:"1567283938" modified:"1567283938" project:"avalanch" status:"pending" uuid:"7a21da72-f2c6-4496-aa99-d51fdfe4408c"]
+---
+time 1567286024
+old [description:"ask mark about the decision points with nothing nearby" entry:"1567228270" modified:"1567280690" project:"avalanch" start:"1567280690" status:"pending" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+new [description:"ask mark about the decision points with nothing nearby" end:"1567286024" entry:"1567228270" modified:"1567286024" project:"avalanch" status:"completed" uuid:"feec3cb0-c75d-44ad-bde5-66d044cff318"]
+---
+time 1567286064
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567286064" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567287578
+new [description:"initial research" entry:"1567287578" modified:"1567287578" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567287582
+old [description:"initial research" entry:"1567287578" modified:"1567287578" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567287582" project:"troy" start:"1567287581" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567287731
+old [description:"initial research" entry:"1567287578" modified:"1567287582" project:"troy" start:"1567287581" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567287731" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567288285
+old [description:"initial research" entry:"1567287578" modified:"1567287731" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567288285" project:"troy" start:"1567288285" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567291172
+old [description:"initial research" entry:"1567287578" modified:"1567288285" project:"troy" start:"1567288285" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567291172" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567294885
+old [description:"initial research" entry:"1567287578" modified:"1567291172" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567294885" project:"troy" start:"1567294885" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567295757
+old [description:"initial research" entry:"1567287578" modified:"1567294885" project:"troy" start:"1567294885" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567295757" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567303094
+old [description:"initial research" entry:"1567287578" modified:"1567295757" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567303094" project:"troy" start:"1567303094" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567303169
+old [description:"initial research" entry:"1567287578" modified:"1567303094" project:"troy" start:"1567303094" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+new [description:"initial research" entry:"1567287578" modified:"1567303169" project:"troy" status:"pending" uuid:"ac9d2166-0e77-4967-b6a3-2fd7c082d31e"]
+---
+time 1567366602
+new [description:"plan phase two" entry:"1567366602" modified:"1567366602" project:"avalanch" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+---
+time 1567367437
+old [description:"extract warnings for the two broken kml folders" entry:"1567283938" modified:"1567283938" project:"avalanch" status:"pending" uuid:"7a21da72-f2c6-4496-aa99-d51fdfe4408c"]
+new [description:"extract warnings for the two broken kml folders" entry:"1567283938" modified:"1567367437" project:"avalanch" start:"1567367436" status:"pending" uuid:"7a21da72-f2c6-4496-aa99-d51fdfe4408c"]
+---
+time 1567369609
+new [description:"compare broken_areas.yml against the datbase" entry:"1567369609" modified:"1567369609" project:"avalanch" status:"pending" uuid:"3aabdf18-285f-4f8e-bca6-e35b931c4d66"]
+---
+time 1567369614
+old [description:"extract warnings for the two broken kml folders" entry:"1567283938" modified:"1567367437" project:"avalanch" start:"1567367436" status:"pending" uuid:"7a21da72-f2c6-4496-aa99-d51fdfe4408c"]
+new [description:"extract warnings for the two broken kml folders" end:"1567369613" entry:"1567283938" modified:"1567369614" project:"avalanch" status:"completed" uuid:"7a21da72-f2c6-4496-aa99-d51fdfe4408c"]
+---
+time 1567369889
+old [description:"compare broken_areas.yml against the datbase" entry:"1567369609" modified:"1567369609" project:"avalanch" status:"pending" uuid:"3aabdf18-285f-4f8e-bca6-e35b931c4d66"]
+new [description:"compare broken_areas.yml against the datbase" entry:"1567369609" modified:"1567369889" project:"avalanch" start:"1567369889" status:"pending" uuid:"3aabdf18-285f-4f8e-bca6-e35b931c4d66"]
+---
+time 1567370623
+old [description:"compare broken_areas.yml against the datbase" entry:"1567369609" modified:"1567369889" project:"avalanch" start:"1567369889" status:"pending" uuid:"3aabdf18-285f-4f8e-bca6-e35b931c4d66"]
+new [description:"compare broken_areas.yml against the datbase" end:"1567370623" entry:"1567369609" modified:"1567370623" project:"avalanch" status:"completed" uuid:"3aabdf18-285f-4f8e-bca6-e35b931c4d66"]
+---
+time 1567370650
+new [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567370650" project:"avalanch" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+---
+time 1567371058
+old [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567370650" project:"avalanch" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+new [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567371058" project:"avalanch" start:"1567371058" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+---
+time 1567371629
+old [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567371058" project:"avalanch" start:"1567371058" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+new [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567371629" project:"avalanch" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+---
+time 1567373389
+old [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567371629" project:"avalanch" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+new [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567373389" project:"avalanch" start:"1567373389" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+---
+time 1567373905
+old [description:"manually check the decision point with nothing within 100 meters" entry:"1567370650" modified:"1567373389" project:"avalanch" start:"1567373389" status:"pending" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+new [description:"manually check the decision point with nothing within 100 meters" end:"1567373905" entry:"1567370650" modified:"1567373905" project:"avalanch" status:"completed" uuid:"60bdadb1-e2ac-4cfe-94dd-efa10778f1e6"]
+---
+time 1567381137
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567286064" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567381137" project:"avalanch" start:"1567381137" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567382426
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567381137" project:"avalanch" start:"1567381137" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382426" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567382495
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382426" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382495" project:"avalanch" start:"1567382495" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567382927
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382495" project:"avalanch" start:"1567382495" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382927" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567397570
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567382927" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567397570" project:"avalanch" start:"1567397570" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567397687
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567397570" project:"avalanch" start:"1567397570" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567397687" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567398534
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567397687" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567398534" project:"avalanch" start:"1567398534" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567398847
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567398534" project:"avalanch" start:"1567398534" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567398847" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567399470
+new [description:"insert pro and super bowls" entry:"1567399470" modified:"1567399470" project:"avalanch" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+---
+time 1567477846
+old [description:"insert pro and super bowls" entry:"1567399470" modified:"1567399470" project:"avalanch" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+new [description:"insert pro and super bowls" entry:"1567399470" modified:"1567477846" project:"avalanch" start:"1567477846" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+---
+time 1567479752
+old [description:"insert pro and super bowls" entry:"1567399470" modified:"1567477846" project:"avalanch" start:"1567477846" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+new [description:"insert pro and super bowls" entry:"1567399470" modified:"1567479752" project:"avalanch" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+---
+time 1567541145
+old [description:"get home" entry:"1565770753" modified:"1565770753" status:"pending" uuid:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881"]
+new [description:"get home" end:"1567541145" entry:"1565770753" modified:"1567541145" status:"completed" uuid:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881"]
+---
+time 1567631574
+old [description:"incorporate" entry:"1565142472" modified:"1565142472" project:"UTG" status:"pending" uuid:"55a7ea0d-b8ae-4373-a2db-a423dc83f343"]
+new [description:"incorporate" end:"1567631574" entry:"1565142472" modified:"1567631574" project:"UTG" status:"completed" uuid:"55a7ea0d-b8ae-4373-a2db-a423dc83f343"]
+---
+time 1567631587
+new [description:"tabulate availabilities" entry:"1567631587" modified:"1567631587" project:"UTG" status:"pending" uuid:"9db417d2-6ccb-4982-a490-01b728c69c7f"]
+---
+time 1567631595
+new [description:"create minutes" entry:"1567631595" modified:"1567631595" project:"UTG" status:"pending" uuid:"e8ef0b91-9c64-49d4-9d89-d94fe74acbfb"]
+---
+time 1567632655
+old [description:"create minutes" entry:"1567631595" modified:"1567631595" project:"UTG" status:"pending" uuid:"e8ef0b91-9c64-49d4-9d89-d94fe74acbfb"]
+new [description:"create minutes" end:"1567632655" entry:"1567631595" modified:"1567632655" project:"UTG" status:"completed" uuid:"e8ef0b91-9c64-49d4-9d89-d94fe74acbfb"]
+---
+time 1567633707
+old [description:"tabulate availabilities" entry:"1567631587" modified:"1567631587" project:"UTG" status:"pending" uuid:"9db417d2-6ccb-4982-a490-01b728c69c7f"]
+new [description:"tabulate availabilities" end:"1567633707" entry:"1567631587" modified:"1567633707" project:"UTG" status:"completed" uuid:"9db417d2-6ccb-4982-a490-01b728c69c7f"]
+---
+time 1567635170
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"get link to slack" entry:"1565134063" modified:"1565152637" project:"UTG" status:"pending" uuid:"91060404-daf2-4252-af97-113481946a97"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"get link to slack" end:"1567635168" entry:"1565134063" modified:"1567635170" project:"UTG" status:"deleted" uuid:"91060404-daf2-4252-af97-113481946a97"]
+---
+time 1567635170
+old [description:"create a daily, weekly collection of instructor duties" entry:"1565134088" modified:"1565134088" project:"UTG" status:"pending" uuid:"b00f5784-e391-40ac-b061-e1fb277f626c"]
+new [description:"create a daily, weekly collection of instructor duties" end:"1567635170" entry:"1565134088" modified:"1567635170" project:"UTG" status:"deleted" uuid:"b00f5784-e391-40ac-b061-e1fb277f626c"]
+---
+time 1567635170
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"have a contract meeting" entry:"1565142495" modified:"1565142495" project:"UTG" status:"pending" uuid:"164943a3-f55c-4ef0-9d5f-2f4a08dfb9f0"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"have a contract meeting" end:"1567635170" entry:"1565142495" modified:"1567635170" project:"UTG" status:"deleted" uuid:"164943a3-f55c-4ef0-9d5f-2f4a08dfb9f0"]
+---
+time 1567635170
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"write a contract" entry:"1565142505" modified:"1565142505" project:"UTG" status:"pending" uuid:"7449fcb3-067f-4bbd-ba7d-4e08fa14dcb4"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"write a contract" end:"1567635170" entry:"1565142505" modified:"1567635170" project:"UTG" status:"deleted" uuid:"7449fcb3-067f-4bbd-ba7d-4e08fa14dcb4"]
+---
+time 1567636035
+old [description:"insert pro and super bowls" entry:"1567399470" modified:"1567479752" project:"avalanch" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+new [description:"insert pro and super bowls" entry:"1567399470" modified:"1567636035" project:"avalanch" start:"1567636035" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+---
+time 1567638942
+old [description:"insert pro and super bowls" entry:"1567399470" modified:"1567636035" project:"avalanch" start:"1567636035" status:"pending" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+new [description:"insert pro and super bowls" end:"1567638942" entry:"1567399470" modified:"1567638942" project:"avalanch" status:"completed" uuid:"e9b181eb-bb7a-4b58-b1bf-93b5bc48bcad"]
+---
+time 1567638988
+old [description:"see what else from the kml have to be added to the database" entry:"1567286064" modified:"1567398847" project:"avalanch" status:"pending" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+new [description:"see what else from the kml have to be added to the database" end:"1567638988" entry:"1567286064" modified:"1567638988" project:"avalanch" status:"completed" uuid:"baa33b04-65f8-4d2e-a97b-1c4966423abf"]
+---
+time 1567639008
+new [description:"send email saying phase one is done" entry:"1567639008" modified:"1567639008" project:"avalanche" status:"pending" uuid:"cecb193a-09ff-45b3-bdb3-0b6296e5ecbc"]
+---
+time 1567909000
+old [description:"send email saying phase one is done" entry:"1567639008" modified:"1567639008" project:"avalanche" status:"pending" uuid:"cecb193a-09ff-45b3-bdb3-0b6296e5ecbc"]
+new [description:"send email saying phase one is done" entry:"1567639008" modified:"1567909000" project:"avalanche" start:"1567909000" status:"pending" uuid:"cecb193a-09ff-45b3-bdb3-0b6296e5ecbc"]
+---
+time 1567909735
+old [description:"send email saying phase one is done" entry:"1567639008" modified:"1567909000" project:"avalanche" start:"1567909000" status:"pending" uuid:"cecb193a-09ff-45b3-bdb3-0b6296e5ecbc"]
+new [description:"send email saying phase one is done" end:"1567909735" entry:"1567639008" modified:"1567909735" project:"avalanche" status:"completed" uuid:"cecb193a-09ff-45b3-bdb3-0b6296e5ecbc"]
+---
+time 1567909929
+old [description:"plan phase two" entry:"1567366602" modified:"1567366602" project:"avalanch" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+new [description:"plan phase two" entry:"1567366602" modified:"1567909929" project:"avalanch" start:"1567909929" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+---
+time 1567913490
+old [description:"plan phase two" entry:"1567366602" modified:"1567909929" project:"avalanch" start:"1567909929" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+new [description:"plan phase two" entry:"1567366602" modified:"1567913490" project:"avalanch" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+---
+time 1567914756
+old [description:"plan phase two" entry:"1567366602" modified:"1567913490" project:"avalanch" status:"pending" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+new [description:"plan phase two" end:"1567914756" entry:"1567366602" modified:"1567914756" project:"avalanch" status:"completed" uuid:"a1a9fa84-2807-46de-acbf-5b0e6ba98e75"]
+---
+time 1567915269
+new [description:"plan phase 2" entry:"1567915269" modified:"1567915269" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568072769
+old [description:"plan phase 2" entry:"1567915269" modified:"1567915269" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568072769" project:"avalanche" start:"1568072769" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568074567
+old [description:"plan phase 2" entry:"1567915269" modified:"1568072769" project:"avalanche" start:"1568072769" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568074567" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568078819
+new [description:"tabulate weekend times" entry:"1568078819" modified:"1568078819" project:"UTG" status:"pending" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+---
+time 1568097752
+old [description:"plan phase 2" entry:"1567915269" modified:"1568074567" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568097752" project:"avalanche" start:"1568097752" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568100182
+new [description:"should i pull id's from the database we be using this information to refer back to the database? should i only do it for the geojson?" entry:"1568100182" modified:"1568100182" project:"avalanche" status:"pending" uuid:"3ee81e8a-434d-4236-97b1-e9fb7bdc6134"]
+---
+time 1568103254
+old [description:"plan phase 2" entry:"1567915269" modified:"1568097752" project:"avalanche" start:"1568097752" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568103254" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568154258
+old [description:"plan phase 2" entry:"1567915269" modified:"1568103254" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568154258" project:"avalanche" start:"1568154258" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568157223
+old [description:"plan phase 2" entry:"1567915269" modified:"1568154258" project:"avalanche" start:"1568154258" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568157223" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568159741
+old [description:"plan phase 2" entry:"1567915269" modified:"1568157223" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568159741" project:"avalanche" start:"1568159740" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568166206
+old [description:"plan phase 2" entry:"1567915269" modified:"1568159741" project:"avalanche" start:"1568159740" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568166206" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568265943
+old [description:"tabulate weekend times" entry:"1568078819" modified:"1568078819" project:"UTG" status:"pending" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+new [description:"tabulate weekend times" entry:"1568078819" modified:"1568265943" project:"UTG" start:"1568265943" status:"pending" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+---
+time 1568267444
+old [description:"tabulate weekend times" entry:"1568078819" modified:"1568265943" project:"UTG" start:"1568265943" status:"pending" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+new [description:"tabulate weekend times" end:"1568267444" entry:"1568078819" modified:"1568267444" project:"UTG" status:"completed" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+---
+time 1568267537
+old [description:"free software presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"1bf9c5a0-9a83-4ef2-98af-6cc1026c86fd"]
+new [description:"free software presentation" end:"1568267537" entry:"1566284724" modified:"1568267537" status:"completed" uuid:"1bf9c5a0-9a83-4ef2-98af-6cc1026c86fd"]
+---
+time 1568277718
+new [description:"finish inaugural_meeting_agenda.yml" entry:"1568277718" modified:"1568277718" project:"interfuse" status:"pending" uuid:"67c2ac89-d4ed-4e73-93ab-fa58997a8757"]
+---
+time 1568277726
+new [description:"get yesses" entry:"1568277726" modified:"1568277726" project:"interfuse" status:"pending" uuid:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f"]
+---
+time 1568277733
+new [description:"schedule first meeting" entry:"1568277733" modified:"1568277733" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+---
+time 1568277773
+old [description:"schedule first meeting" entry:"1568277733" modified:"1568277733" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+new [depends:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f" description:"schedule first meeting" entry:"1568277733" modified:"1568277773" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+---
+time 1568277776
+old [depends:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f" description:"schedule first meeting" entry:"1568277733" modified:"1568277773" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+new [depends:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f,67c2ac89-d4ed-4e73-93ab-fa58997a8757" description:"schedule first meeting" entry:"1568277733" modified:"1568277776" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+---
+time 1568310423
+old [description:"plan phase 2" entry:"1567915269" modified:"1568166206" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568310423" project:"avalanche" start:"1568310423" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568315178
+old [description:"plan phase 2" entry:"1567915269" modified:"1568310423" project:"avalanche" start:"1568310423" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568315178" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568319028
+old [description:"plan phase 2" entry:"1567915269" modified:"1568315178" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568319028" project:"avalanche" start:"1568319028" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568321522
+old [description:"plan phase 2" entry:"1567915269" modified:"1568319028" project:"avalanche" start:"1568319028" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568321522" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568321707
+old [description:"plan phase 2" entry:"1567915269" modified:"1568321522" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568321707" project:"avalanche" start:"1568321707" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568322353
+old [description:"plan phase 2" entry:"1567915269" modified:"1568321707" project:"avalanche" start:"1568321707" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" entry:"1567915269" modified:"1568322353" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568323239
+new [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568323239" project:"avalanche" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+---
+time 1568323244
+old [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568323239" project:"avalanche" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+new [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568323244" project:"avalanche" start:"1568323244" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+---
+time 1568327909
+old [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568323244" project:"avalanche" start:"1568323244" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+new [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568327909" project:"avalanche" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+---
+time 1568361268
+old [description:"get yesses" entry:"1568277726" modified:"1568277726" project:"interfuse" status:"pending" uuid:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f"]
+new [description:"get yesses" end:"1568361268" entry:"1568277726" modified:"1568361268" project:"interfuse" status:"completed" uuid:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f"]
+---
+time 1568361271
+old [depends:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f,67c2ac89-d4ed-4e73-93ab-fa58997a8757" description:"schedule first meeting" entry:"1568277733" modified:"1568277776" project:"interfuse" status:"pending" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+new [depends:"3e5279e8-b2ee-4cb0-8c01-6e0ea7a0d00f,67c2ac89-d4ed-4e73-93ab-fa58997a8757" description:"schedule first meeting" end:"1568361271" entry:"1568277733" modified:"1568361271" project:"interfuse" status:"completed" uuid:"9ddac31e-6b6d-4502-a952-a12e8fbfd603"]
+---
+time 1568361844
+new [description:"get in with the unions" entry:"1568361844" modified:"1568361844" project:"perm" status:"pending" uuid:"a1619edb-884e-46be-8f39-ef147f74c920"]
+---
+time 1568361885
+new [description:"create union specific cuts of the GND max program" entry:"1568361885" modified:"1568361885" project:"perm" status:"pending" uuid:"7e3bd305-aac7-4c56-bc2d-2c5e40f2d777"]
+---
+time 1568361940
+old [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1565770775" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+new [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1568361940" project:"perm" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+---
+time 1568362330
+new [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568362330" project:"avalanche" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+---
+time 1568362337
+old [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568362330" project:"avalanche" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+new [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568362337" project:"avalanche" start:"1568362337" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+---
+time 1568363362
+old [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568362337" project:"avalanche" start:"1568362337" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+new [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568363362" project:"avalanche" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+---
+time 1568363367
+old [description:"write email declaring to_GeoJSON is done" entry:"1568362330" modified:"1568363362" project:"avalanche" status:"pending" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+new [description:"write email declaring to_GeoJSON is done" end:"1568363367" entry:"1568362330" modified:"1568363367" project:"avalanche" status:"completed" uuid:"8c79d006-1510-4310-b24e-d60b6b3af9b4"]
+---
+time 1568363375
+old [description:"plan phase 2" entry:"1567915269" modified:"1568322353" project:"avalanche" status:"pending" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+new [description:"plan phase 2" end:"1568363375" entry:"1567915269" modified:"1568363375" project:"avalanche" status:"completed" uuid:"fdcbd07b-864e-4fe6-94a0-cf31b1381f39"]
+---
+time 1568363379
+old [description:"should i pull id's from the database we be using this information to refer back to the database? should i only do it for the geojson?" entry:"1568100182" modified:"1568100182" project:"avalanche" status:"pending" uuid:"3ee81e8a-434d-4236-97b1-e9fb7bdc6134"]
+new [description:"should i pull id's from the database we be using this information to refer back to the database? should i only do it for the geojson?" end:"1568363379" entry:"1568100182" modified:"1568363379" project:"avalanche" status:"completed" uuid:"3ee81e8a-434d-4236-97b1-e9fb7bdc6134"]
+---
+time 1568363382
+old [description:"documenting to_GeoJSON.js" entry:"1568323239" modified:"1568327909" project:"avalanche" status:"pending" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+new [description:"documenting to_GeoJSON.js" end:"1568363382" entry:"1568323239" modified:"1568363382" project:"avalanche" status:"completed" uuid:"e5fcf792-7e1c-4b9c-a67c-c2837f913206"]
+---
+time 1568363394
+new [description:"write KML returning code" entry:"1568363394" modified:"1568363394" project:"avalanche" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+---
+time 1568487811
+new [description:"get times for festivals not yet documented" entry:"1568487811" modified:"1568487811" project:"UTG" status:"pending" uuid:"7cf468e0-dcfb-4729-b5c1-8f82e23d262f"]
+---
+time 1568487817
+new [description:"get shift times" entry:"1568487817" modified:"1568487817" project:"UTG" status:"pending" uuid:"48b18108-3244-4e6f-950e-611ef5cb4aec"]
+---
+time 1568487961
+new [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568487961" project:"UTG" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+---
+time 1568488237
+new [description:"get all meeting times" entry:"1568488237" modified:"1568488237" project:"UTG" status:"pending" uuid:"62aef942-17cf-4d07-8aef-6d8aa3af9b93"]
+---
+time 1568488426
+new [description:"fix to_geoJSON.js" entry:"1568488426" modified:"1568488426" project:"avalanche" status:"pending" uuid:"c3001fcb-0208-4678-b59b-acd1e65917a6"]
+---
+time 1568488432
+old [description:"fix to_geoJSON.js" entry:"1568488426" modified:"1568488426" project:"avalanche" status:"pending" uuid:"c3001fcb-0208-4678-b59b-acd1e65917a6"]
+new [description:"fix to_geoJSON.js" entry:"1568488426" modified:"1568488432" project:"avalanche" start:"1568488432" status:"pending" uuid:"c3001fcb-0208-4678-b59b-acd1e65917a6"]
+---
+time 1568488666
+old [description:"fix to_geoJSON.js" entry:"1568488426" modified:"1568488432" project:"avalanche" start:"1568488432" status:"pending" uuid:"c3001fcb-0208-4678-b59b-acd1e65917a6"]
+new [description:"fix to_geoJSON.js" end:"1568488666" entry:"1568488426" modified:"1568488666" project:"avalanche" status:"completed" uuid:"c3001fcb-0208-4678-b59b-acd1e65917a6"]
+---
+time 1568488687
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568488687" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568488699
+old [description:"write KML returning code" entry:"1568363394" modified:"1568363394" project:"avalanche" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+new [description:"write KML returning code" entry:"1568363394" modified:"1568488699" project:"avalanche" start:"1568488699" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+---
+time 1568490101
+old [description:"write KML returning code" entry:"1568363394" modified:"1568488699" project:"avalanche" start:"1568488699" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+new [description:"write KML returning code" entry:"1568363394" modified:"1568490101" project:"avalanche" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+---
+time 1568498974
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568488687" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568498974" project:"avalanche" start:"1568498974" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568501037
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568498974" project:"avalanche" start:"1568498974" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501037" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568501060
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501037" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501060" project:"avalanche" start:"1568501060" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568501919
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501060" project:"avalanche" start:"1568501060" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501919" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568504172
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568501919" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568504172" project:"avalanche" start:"1568504171" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568504481
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568504172" project:"avalanche" start:"1568504171" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568504481" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568662354
+new [description:"checkout the github issue" entry:"1568662354" modified:"1568662354" project:"avalanche" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+---
+time 1568678089
+old [description:"checkout the github issue" entry:"1568662354" modified:"1568662354" project:"avalanche" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+new [description:"checkout the github issue" entry:"1568662354" modified:"1568678089" project:"avalanche" start:"1568678089" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+---
+time 1568680108
+new [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568680108" project:"avalanche" status:"pending" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+---
+time 1568680257
+old [description:"checkout the github issue" entry:"1568662354" modified:"1568678089" project:"avalanche" start:"1568678089" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+new [description:"checkout the github issue" entry:"1568662354" modified:"1568680257" project:"avalanche" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+---
+time 1568680266
+old [description:"checkout the github issue" entry:"1568662354" modified:"1568680257" project:"avalanche" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+new [description:"checkout the github issue" entry:"1568662354" modified:"1568680266" project:"avalanche" start:"1568680266" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+---
+time 1568680465
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568680465" project:"avalanche" status:"pending" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568680705
+new [description:"move all requires to the top" entry:"1568680705" modified:"1568680705" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7fc676e4-ae7a-45f7-83b9-6dd043156bad"]
+---
+time 1568680969
+old [description:"move all requires to the top" entry:"1568680705" modified:"1568680705" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7fc676e4-ae7a-45f7-83b9-6dd043156bad"]
+new [description:"move all requires to the top" entry:"1568680705" modified:"1568680969" project:"phase_two" start:"1568680969" status:"pending" tags:"avalanche" uuid:"7fc676e4-ae7a-45f7-83b9-6dd043156bad"]
+---
+time 1568681359
+new [description:"make list of things to do" entry:"1568681359" modified:"1568681359" project:"phase_two" status:"pending" tags:"avalanche" uuid:"90736e58-70d6-4630-830d-4c40850444fa"]
+---
+time 1568681370
+old [description:"make list of things to do" entry:"1568681359" modified:"1568681359" project:"phase_two" status:"pending" tags:"avalanche" uuid:"90736e58-70d6-4630-830d-4c40850444fa"]
+new [description:"make list of things to do" entry:"1568681359" modified:"1568681370" project:"phase_two" start:"1568681370" status:"pending" tags:"avalanche" uuid:"90736e58-70d6-4630-830d-4c40850444fa"]
+---
+time 1568681382
+old [description:"move all requires to the top" entry:"1568680705" modified:"1568680969" project:"phase_two" start:"1568680969" status:"pending" tags:"avalanche" uuid:"7fc676e4-ae7a-45f7-83b9-6dd043156bad"]
+new [description:"move all requires to the top" end:"1568681382" entry:"1568680705" modified:"1568681382" project:"phase_two" status:"completed" tags:"avalanche" uuid:"7fc676e4-ae7a-45f7-83b9-6dd043156bad"]
+---
+time 1568681385
+old [description:"checkout the github issue" entry:"1568662354" modified:"1568680266" project:"avalanche" start:"1568680266" status:"pending" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+new [description:"checkout the github issue" end:"1568681385" entry:"1568662354" modified:"1568681385" project:"avalanche" status:"completed" uuid:"70b7a0f6-1836-4b5a-9740-3a92e63ab5d0"]
+---
+time 1568681400
+old [description:"move to_GeoJSON.js away from async...await" entry:"1568488687" modified:"1568504481" project:"avalanche" status:"pending" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+new [description:"move to_GeoJSON.js away from async...await" end:"1568681399" entry:"1568488687" modified:"1568681400" project:"avalanche" status:"deleted" uuid:"49693f15-3221-4f3d-b74b-26711c87d3b9"]
+---
+time 1568681423
+old [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568680108" project:"avalanche" status:"pending" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+new [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568681423" project:"phase_two" status:"pending" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+---
+time 1568681424
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568680465" project:"avalanche" status:"pending" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568681424" project:"phase_two" status:"pending" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568681433
+old [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568681423" project:"phase_two" status:"pending" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+new [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568681433" project:"phase_two" status:"pending" tags:"avalanche" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+---
+time 1568681433
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568681424" project:"phase_two" status:"pending" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568681433" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568681453
+old [description:"write KML returning code" entry:"1568363394" modified:"1568490101" project:"avalanche" status:"pending" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+new [description:"write KML returning code" end:"1568681452" entry:"1568363394" modified:"1568681453" project:"avalanche" status:"deleted" uuid:"a1ece560-8f31-405f-91a6-8d3f5a6b7cfc"]
+---
+time 1568681525
+new [description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568681525" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1568681550
+new [description:"create script to upload the content to Mapbox" entry:"1568681550" modified:"1568681550" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d56ea66c-bfd1-4d39-8b3b-ce2fe86dca56"]
+---
+time 1568681581
+new [description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681581" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+---
+time 1568681626
+new [description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681626" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1568681633
+new [description:"return kml" entry:"1568681633" modified:"1568681633" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1568681671
+old [description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681581" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52" description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+---
+time 1568681671
+old [description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681626" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52" description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1568681709
+old [description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568681525" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1568681709
+old [description:"create script to upload the content to Mapbox" entry:"1568681550" modified:"1568681550" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d56ea66c-bfd1-4d39-8b3b-ce2fe86dca56"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"create script to upload the content to Mapbox" entry:"1568681550" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d56ea66c-bfd1-4d39-8b3b-ce2fe86dca56"]
+---
+time 1568681709
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52" description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+---
+time 1568681709
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52" description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1568681709
+old [description:"return kml" entry:"1568681633" modified:"1568681633" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1568681740
+old [description:"make list of things to do" entry:"1568681359" modified:"1568681370" project:"phase_two" start:"1568681370" status:"pending" tags:"avalanche" uuid:"90736e58-70d6-4630-830d-4c40850444fa"]
+new [description:"make list of things to do" end:"1568681740" entry:"1568681359" modified:"1568681740" project:"phase_two" status:"completed" tags:"avalanche" uuid:"90736e58-70d6-4630-830d-4c40850444fa"]
+---
+time 1568681859
+old [description:"speaking presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"b6a4c08d-34ce-4437-a04f-c04e5bf30f7a"]
+new [description:"speaking presentation" entry:"1566284724" modified:"1568681859" project:"perm" status:"pending" uuid:"b6a4c08d-34ce-4437-a04f-c04e5bf30f7a"]
+---
+time 1568681859
+old [description:"editing presentation" entry:"1566284724" modified:"1566284724" status:"pending" uuid:"fc7c7cb7-9b52-44d5-b524-62440ce2a7f0"]
+new [description:"editing presentation" entry:"1566284724" modified:"1568681859" project:"perm" status:"pending" uuid:"fc7c7cb7-9b52-44d5-b524-62440ce2a7f0"]
+---
+time 1568682334
+old [description:"finish inaugural_meeting_agenda.yml" entry:"1568277718" modified:"1568277718" project:"interfuse" status:"pending" uuid:"67c2ac89-d4ed-4e73-93ab-fa58997a8757"]
+new [description:"finish inaugural_meeting_agenda.yml" end:"1568682334" entry:"1568277718" modified:"1568682334" project:"interfuse" status:"completed" uuid:"67c2ac89-d4ed-4e73-93ab-fa58997a8757"]
+---
+time 1568682355
+old [description:"speaking presentation" entry:"1566284724" modified:"1568681859" project:"perm" status:"pending" uuid:"b6a4c08d-34ce-4437-a04f-c04e5bf30f7a"]
+new [description:"speaking presentation" entry:"1566284724" modified:"1568682355" priority:"L" project:"perm" status:"pending" uuid:"b6a4c08d-34ce-4437-a04f-c04e5bf30f7a"]
+---
+time 1568682355
+old [description:"editing presentation" entry:"1566284724" modified:"1568681859" project:"perm" status:"pending" uuid:"fc7c7cb7-9b52-44d5-b524-62440ce2a7f0"]
+new [description:"editing presentation" entry:"1566284724" modified:"1568682355" priority:"L" project:"perm" status:"pending" uuid:"fc7c7cb7-9b52-44d5-b524-62440ce2a7f0"]
+---
+time 1568682406
+old [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1568361940" project:"perm" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+new [depends:"dac8eeed-5c0b-4a5c-8a76-50c9a9916881" description:"get Going for Coffee from the central library" entry:"1560900355" modified:"1568682406" priority:"L" project:"perm" status:"pending" uuid:"36e0bbd5-f6e1-44d1-b93e-476e1b5a20cf"]
+---
+time 1568682424
+old [description:"get times for festivals not yet documented" entry:"1568487811" modified:"1568487811" project:"UTG" status:"pending" uuid:"7cf468e0-dcfb-4729-b5c1-8f82e23d262f"]
+new [description:"get times for festivals not yet documented" entry:"1568487811" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"7cf468e0-dcfb-4729-b5c1-8f82e23d262f"]
+---
+time 1568682424
+old [description:"get shift times" entry:"1568487817" modified:"1568487817" project:"UTG" status:"pending" uuid:"48b18108-3244-4e6f-950e-611ef5cb4aec"]
+new [description:"get shift times" entry:"1568487817" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"48b18108-3244-4e6f-950e-611ef5cb4aec"]
+---
+time 1568682424
+old [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568487961" project:"UTG" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+new [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+---
+time 1568682424
+old [description:"get all meeting times" entry:"1568488237" modified:"1568488237" project:"UTG" status:"pending" uuid:"62aef942-17cf-4d07-8aef-6d8aa3af9b93"]
+new [description:"get all meeting times" entry:"1568488237" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"62aef942-17cf-4d07-8aef-6d8aa3af9b93"]
+---
+time 1568682424
+old [description:"tabulate weekend times" end:"1568267444" entry:"1568078819" modified:"1568267444" project:"UTG" status:"completed" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+new [description:"tabulate weekend times" end:"1568267444" entry:"1568078819" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"ebac9076-6243-4272-a1b3-1ed8dbeb8670"]
+---
+time 1568682424
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"get link to slack" end:"1567635168" entry:"1565134063" modified:"1567635170" project:"UTG" status:"deleted" uuid:"91060404-daf2-4252-af97-113481946a97"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"get link to slack" end:"1567635168" entry:"1565134063" modified:"1568682424" priority:"H" project:"UTG" status:"deleted" uuid:"91060404-daf2-4252-af97-113481946a97"]
+---
+time 1568682424
+old [description:"create a daily, weekly collection of instructor duties" end:"1567635170" entry:"1565134088" modified:"1567635170" project:"UTG" status:"deleted" uuid:"b00f5784-e391-40ac-b061-e1fb277f626c"]
+new [description:"create a daily, weekly collection of instructor duties" end:"1567635170" entry:"1565134088" modified:"1568682424" priority:"H" project:"UTG" status:"deleted" uuid:"b00f5784-e391-40ac-b061-e1fb277f626c"]
+---
+time 1568682424
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"have a contract meeting" end:"1567635170" entry:"1565142495" modified:"1567635170" project:"UTG" status:"deleted" uuid:"164943a3-f55c-4ef0-9d5f-2f4a08dfb9f0"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"have a contract meeting" end:"1567635170" entry:"1565142495" modified:"1568682424" priority:"H" project:"UTG" status:"deleted" uuid:"164943a3-f55c-4ef0-9d5f-2f4a08dfb9f0"]
+---
+time 1568682424
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"write a contract" end:"1567635170" entry:"1565142505" modified:"1567635170" project:"UTG" status:"deleted" uuid:"7449fcb3-067f-4bbd-ba7d-4e08fa14dcb4"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"write a contract" end:"1567635170" entry:"1565142505" modified:"1568682424" priority:"H" project:"UTG" status:"deleted" uuid:"7449fcb3-067f-4bbd-ba7d-4e08fa14dcb4"]
+---
+time 1568682424
+old [description:"tabulate availabilities" end:"1567633707" entry:"1567631587" modified:"1567633707" project:"UTG" status:"completed" uuid:"9db417d2-6ccb-4982-a490-01b728c69c7f"]
+new [description:"tabulate availabilities" end:"1567633707" entry:"1567631587" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"9db417d2-6ccb-4982-a490-01b728c69c7f"]
+---
+time 1568682424
+old [description:"create minutes" end:"1567632655" entry:"1567631595" modified:"1567632655" project:"UTG" status:"completed" uuid:"e8ef0b91-9c64-49d4-9d89-d94fe74acbfb"]
+new [description:"create minutes" end:"1567632655" entry:"1567631595" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"e8ef0b91-9c64-49d4-9d89-d94fe74acbfb"]
+---
+time 1568682424
+old [description:"incorporate" end:"1567631574" entry:"1565142472" modified:"1567631574" project:"UTG" status:"completed" uuid:"55a7ea0d-b8ae-4373-a2db-a423dc83f343"]
+new [description:"incorporate" end:"1567631574" entry:"1565142472" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"55a7ea0d-b8ae-4373-a2db-a423dc83f343"]
+---
+time 1568682424
+old [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"email the police" end:"1567228140" entry:"1565142520" modified:"1567228140" project:"UTG" status:"completed" uuid:"bdcd5dcb-59e1-4afb-b2fc-dbd30d7b0839"]
+new [depends:"55a7ea0d-b8ae-4373-a2db-a423dc83f343" description:"email the police" end:"1567228140" entry:"1565142520" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"bdcd5dcb-59e1-4afb-b2fc-dbd30d7b0839"]
+---
+time 1568682424
+old [description:"get hours for the Carmengay job" end:"1565320972" entry:"1565317770" modified:"1565320972" project:"UTG" status:"completed" uuid:"1a83d0e9-3bf4-4374-91c0-4ee503ee47b6"]
+new [description:"get hours for the Carmengay job" end:"1565320972" entry:"1565317770" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"1a83d0e9-3bf4-4374-91c0-4ee503ee47b6"]
+---
+time 1568682424
+old [annotation_1565142455:"it had to do with soem charity cat" description:"send picture of turkishfest email list" end:"1565317913" entry:"1565142415" modified:"1565317913" project:"UTG" status:"completed" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+new [annotation_1565142455:"it had to do with soem charity cat" description:"send picture of turkishfest email list" end:"1565317913" entry:"1565142415" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"f28c9089-91a8-4aac-95c1-ce9f147f8852"]
+---
+time 1568682424
+old [description:"ember' hours to the timesheet" end:"1565317913" entry:"1565296000" modified:"1565317913" project:"UTG" status:"completed" uuid:"5bc15d97-96a2-47dc-ae6d-409c5e3b9be7"]
+new [description:"ember' hours to the timesheet" end:"1565317913" entry:"1565296000" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"5bc15d97-96a2-47dc-ae6d-409c5e3b9be7"]
+---
+time 1568682424
+old [description:"ember' hours to the chat" end:"1565296004" entry:"1565295983" modified:"1565296005" project:"UTG" status:"deleted" uuid:"90434a36-de3b-45b9-b878-01bc86f2cfab"]
+new [description:"ember' hours to the chat" end:"1565296004" entry:"1565295983" modified:"1568682424" priority:"H" project:"UTG" status:"deleted" uuid:"90434a36-de3b-45b9-b878-01bc86f2cfab"]
+---
+time 1568682424
+old [annotation_1565134049:"make sure you have the correct software version" description:"create list for homework" end:"1565152524" entry:"1565134005" modified:"1565152524" project:"UTG" status:"completed" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+new [annotation_1565134049:"make sure you have the correct software version" description:"create list for homework" end:"1565152524" entry:"1565134005" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"ea3112eb-4f3a-41ad-afd0-496280cb9e6b"]
+---
+time 1568682424
+old [description:"finalize agenda for upcoming meetings" end:"1565063932" entry:"1564799516" modified:"1565063932" project:"UTG" status:"completed" uuid:"9f3ae2b5-7983-47d9-8d4e-31bc35a58d83"]
+new [description:"finalize agenda for upcoming meetings" end:"1565063932" entry:"1564799516" modified:"1568682424" priority:"H" project:"UTG" status:"completed" uuid:"9f3ae2b5-7983-47d9-8d4e-31bc35a58d83"]
+---
+time 1568682425
+old [description:"11th meeting" end:"1562887066" entry:"1561935311" modified:"1562887066" project:"UTG" status:"completed" uuid:"9d10c6cd-4c20-44d4-853f-de4a3315667c"]
+new [description:"11th meeting" end:"1562887066" entry:"1561935311" modified:"1568682425" priority:"H" project:"UTG" status:"completed" uuid:"9d10c6cd-4c20-44d4-853f-de4a3315667c"]
+---
+time 1568682425
+old [description:"invite everyone to trello" end:"1562605888" entry:"1561935323" modified:"1562605888" project:"UTG" status:"completed" uuid:"61912801-1a02-43db-8baa-6c0835908a2d"]
+new [description:"invite everyone to trello" end:"1562605888" entry:"1561935323" modified:"1568682425" priority:"H" project:"UTG" status:"completed" uuid:"61912801-1a02-43db-8baa-6c0835908a2d"]
+---
+time 1568682425
+old [description:"invite everyone to bitbucket" end:"1562605888" entry:"1561935329" modified:"1562605888" project:"UTG" status:"completed" uuid:"e09497a9-b8a0-46a2-80b7-87ec4c0e57ac"]
+new [description:"invite everyone to bitbucket" end:"1562605888" entry:"1561935329" modified:"1568682425" priority:"H" project:"UTG" status:"completed" uuid:"e09497a9-b8a0-46a2-80b7-87ec4c0e57ac"]
+---
+time 1568682574
+old [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+new [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568682574" priority:"H" project:"UTG" start:"1568682574" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+---
+time 1568682745
+old [description:"when did ember go to UTG HQ?" entry:"1568487961" modified:"1568682574" priority:"H" project:"UTG" start:"1568682574" status:"pending" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+new [description:"when did ember go to UTG HQ?" end:"1568682745" entry:"1568487961" modified:"1568682745" priority:"H" project:"UTG" status:"completed" uuid:"7cce6f09-91ae-4f2c-9d88-e9565aa63c1f"]
+---
+time 1568682847
+old [description:"get times for festivals not yet documented" entry:"1568487811" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"7cf468e0-dcfb-4729-b5c1-8f82e23d262f"]
+new [description:"get times for festivals not yet documented" end:"1568682847" entry:"1568487811" modified:"1568682847" priority:"H" project:"UTG" status:"completed" uuid:"7cf468e0-dcfb-4729-b5c1-8f82e23d262f"]
+---
+time 1568683115
+old [description:"get shift times" entry:"1568487817" modified:"1568682424" priority:"H" project:"UTG" status:"pending" uuid:"48b18108-3244-4e6f-950e-611ef5cb4aec"]
+new [description:"get shift times" end:"1568683115" entry:"1568487817" modified:"1568683115" priority:"H" project:"UTG" status:"completed" uuid:"48b18108-3244-4e6f-950e-611ef5cb4aec"]
+---
+time 1568684461
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568684461" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568684477
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568684461" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568684477" project:"phase_two" start:"1568684477" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568685195
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568684477" project:"phase_two" start:"1568684477" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568685195" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568690793
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568685195" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568690793" project:"phase_two" start:"1568690793" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568690803
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568690793" project:"phase_two" start:"1568690793" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568690803" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568691557
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568690803" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568691557" project:"phase_two" start:"1568691557" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568692554
+old [description:"get a linter and lint" entry:"1568684461" modified:"1568691557" project:"phase_two" start:"1568691557" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+new [description:"get a linter and lint" entry:"1568684461" modified:"1568692554" project:"phase_two" status:"pending" tags:"avalanche" uuid:"ef1995fa-6c47-4e88-aa7c-c20053014977"]
+---
+time 1568692826
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568681433" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692826" project:"phase_two" start:"1568692826" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568692923
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692826" project:"phase_two" start:"1568692826" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692923" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568692947
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692923" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692947" project:"phase_two" start:"1568692947" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568692953
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692947" project:"phase_two" start:"1568692947" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692953" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568752150
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568692953" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568752150" project:"phase_two" start:"1568752150" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568754884
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568752150" project:"phase_two" start:"1568752150" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568754884" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568756555
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568754884" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568756555" project:"phase_two" start:"1568756555" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568757874
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568756555" project:"phase_two" start:"1568756555" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568757874" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568781690
+new [description:"rethink architecture" entry:"1568781690" modified:"1568781690" project:"the_left" status:"pending" tags:"interfuse" uuid:"29e9a621-b57a-45d6-b524-a63b702bd2b5"]
+---
+time 1568781707
+new [description:"send out minutes" entry:"1568781707" modified:"1568781707" project:"the_left" status:"pending" tags:"interfuse" uuid:"d8c42c56-02cb-45b8-a09f-efe2d83cf95a"]
+---
+time 1568781712
+new [description:"plan next meeting" entry:"1568781712" modified:"1568781712" project:"the_left" status:"pending" tags:"interfuse" uuid:"61656365-2abb-4e2f-9967-1ce4419a29c0"]
+---
+time 1568781718
+new [description:"get x220" entry:"1568781718" modified:"1568781718" project:"the_left" status:"pending" tags:"interfuse" uuid:"7f442d0b-9ba3-43f3-9be0-46f204dce81f"]
+---
+time 1568781745
+new [description:"decide on software suite" entry:"1568781745" modified:"1568781745" project:"the_left" status:"pending" tags:"interfuse" uuid:"53b669d8-62c9-4a37-a3f0-7e093955dd1b"]
+---
+time 1568781754
+old [description:"rethink architecture" entry:"1568781690" modified:"1568781690" project:"the_left" status:"pending" tags:"interfuse" uuid:"29e9a621-b57a-45d6-b524-a63b702bd2b5"]
+new [description:"rethink architecture" entry:"1568781690" modified:"1568781754" project:"the_left" start:"1568781754" status:"pending" tags:"interfuse" uuid:"29e9a621-b57a-45d6-b524-a63b702bd2b5"]
+---
+time 1568783340
+old [description:"rethink architecture" entry:"1568781690" modified:"1568781754" project:"the_left" start:"1568781754" status:"pending" tags:"interfuse" uuid:"29e9a621-b57a-45d6-b524-a63b702bd2b5"]
+new [description:"rethink architecture" end:"1568783340" entry:"1568781690" modified:"1568783340" project:"the_left" status:"completed" tags:"interfuse" uuid:"29e9a621-b57a-45d6-b524-a63b702bd2b5"]
+---
+time 1568783436
+old [description:"send out minutes" entry:"1568781707" modified:"1568781707" project:"the_left" status:"pending" tags:"interfuse" uuid:"d8c42c56-02cb-45b8-a09f-efe2d83cf95a"]
+new [description:"send out minutes" end:"1568783435" entry:"1568781707" modified:"1568783436" project:"the_left" status:"completed" tags:"interfuse" uuid:"d8c42c56-02cb-45b8-a09f-efe2d83cf95a"]
+---
+time 1568789441
+new [description:"make ppl markdown" entry:"1568789441" modified:"1568789441" project:"ppl" status:"pending" tags:"interfuse" uuid:"ef07cdeb-64e4-4bfa-b0cb-923f6c5e8209"]
+---
+time 1568789444
+new [description:"make ppl latex" entry:"1568789444" modified:"1568789444" project:"ppl" status:"pending" tags:"interfuse" uuid:"f9892268-5cf0-4355-9694-2329faa5fc96"]
+---
+time 1568832439
+old [description:"make ppl markdown" entry:"1568789441" modified:"1568789441" project:"ppl" status:"pending" tags:"interfuse" uuid:"ef07cdeb-64e4-4bfa-b0cb-923f6c5e8209"]
+new [description:"make ppl markdown" end:"1568832439" entry:"1568789441" modified:"1568832439" project:"ppl" status:"completed" tags:"interfuse" uuid:"ef07cdeb-64e4-4bfa-b0cb-923f6c5e8209"]
+---
+time 1568832439
+old [description:"make ppl latex" entry:"1568789444" modified:"1568789444" project:"ppl" status:"pending" tags:"interfuse" uuid:"f9892268-5cf0-4355-9694-2329faa5fc96"]
+new [description:"make ppl latex" end:"1568832439" entry:"1568789444" modified:"1568832439" project:"ppl" status:"completed" tags:"interfuse" uuid:"f9892268-5cf0-4355-9694-2329faa5fc96"]
+---
+time 1568839478
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568757874" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568839478" project:"phase_two" start:"1568839478" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568842115
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568839478" project:"phase_two" start:"1568839478" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568842115" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568842715
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568842115" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568842715" project:"phase_two" start:"1568842715" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568844210
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568842715" project:"phase_two" start:"1568842715" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568844210" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568844498
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568844210" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568844498" project:"phase_two" start:"1568844498" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568846828
+old [description:"get rid of classes, async\/await, and generators" entry:"1568680465" modified:"1568844498" project:"phase_two" start:"1568844498" status:"pending" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+new [description:"get rid of classes, async\/await, and generators" end:"1568846828" entry:"1568680465" modified:"1568846828" project:"phase_two" status:"completed" tags:"avalanche" uuid:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d"]
+---
+time 1568846832
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568846832" project:"phase_two" start:"1568846832" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1568846905
+new [description:"upload to mapbox" entry:"1568846905" modified:"1568846905" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7de37a29-2913-450c-acf7-5122a4061dd8"]
+---
+time 1568847046
+new [description:"bounding box?" entry:"1568847046" modified:"1568847046" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568847127
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568846832" project:"phase_two" start:"1568846832" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d,d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568847127" project:"phase_two" start:"1568846832" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1568847127
+old [description:"upload to mapbox" entry:"1568846905" modified:"1568846905" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7de37a29-2913-450c-acf7-5122a4061dd8"]
+new [depends:"d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"upload to mapbox" entry:"1568846905" modified:"1568847127" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7de37a29-2913-450c-acf7-5122a4061dd8"]
+---
+time 1568847136
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d,d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568847127" project:"phase_two" start:"1568846832" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d,d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568847136" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1568860678
+old [description:"bounding box?" entry:"1568847046" modified:"1568847046" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+new [description:"bounding box?" entry:"1568847046" modified:"1568860678" project:"phase_two" start:"1568860678" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568861584
+new [description:"does this mapbox thing need to be in the mbtiles format?" entry:"1568861584" modified:"1568861584" project:"phase_two" status:"pending" tags:"avalanche" uuid:"c1ed5ebc-7128-4e14-99a7-7b146918a0aa"]
+---
+time 1568862667
+new [description:"areas doesn't have geometry?" entry:"1568862667" modified:"1568862667" project:"phase_two" status:"pending" tags:"avalanche" uuid:"119857d0-c3c0-404b-9f5f-40c0f6b7e71b"]
+---
+time 1568863163
+new [description:"which carries with it the vital issue that it can't be a geojson feature" entry:"1568863163" modified:"1568863163" project:"phase_two" status:"pending" tags:"avalanche" uuid:"fddea820-526f-4a29-a225-f44585fc2e86"]
+---
+time 1568863930
+old [description:"i see the icons but i can't get them" entry:"1568680108" modified:"1568681433" project:"phase_two" status:"pending" tags:"avalanche" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+new [description:"i see the icons but i can't get them" end:"1568863928" entry:"1568680108" modified:"1568863930" project:"phase_two" status:"completed" tags:"avalanche" uuid:"5d899467-952d-4d31-9338-1071306c4d55"]
+---
+time 1568863930
+old [description:"areas doesn't have geometry?" entry:"1568862667" modified:"1568862667" project:"phase_two" status:"pending" tags:"avalanche" uuid:"119857d0-c3c0-404b-9f5f-40c0f6b7e71b"]
+new [description:"areas doesn't have geometry?" end:"1568863930" entry:"1568862667" modified:"1568863930" project:"phase_two" status:"completed" tags:"avalanche" uuid:"119857d0-c3c0-404b-9f5f-40c0f6b7e71b"]
+---
+time 1568863930
+old [description:"which carries with it the vital issue that it can't be a geojson feature" entry:"1568863163" modified:"1568863163" project:"phase_two" status:"pending" tags:"avalanche" uuid:"fddea820-526f-4a29-a225-f44585fc2e86"]
+new [description:"which carries with it the vital issue that it can't be a geojson feature" end:"1568863930" entry:"1568863163" modified:"1568863930" project:"phase_two" status:"completed" tags:"avalanche" uuid:"fddea820-526f-4a29-a225-f44585fc2e86"]
+---
+time 1568863943
+old [description:"bounding box?" entry:"1568847046" modified:"1568860678" project:"phase_two" start:"1568860678" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+new [description:"bounding box?" entry:"1568847046" modified:"1568863943" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568924086
+old [description:"bounding box?" entry:"1568847046" modified:"1568863943" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+new [description:"bounding box?" entry:"1568847046" modified:"1568924086" project:"phase_two" start:"1568924085" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568924154
+new [description:"replace classes" entry:"1568924154" modified:"1568924154" project:"phase_two" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+---
+time 1568924161
+old [description:"replace classes" entry:"1568924154" modified:"1568924154" project:"phase_two" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+new [description:"replace classes" entry:"1568924154" modified:"1568924161" project:"phase_two" start:"1568924160" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+---
+time 1568924636
+old [description:"bounding box?" entry:"1568847046" modified:"1568924086" project:"phase_two" start:"1568924085" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+new [description:"bounding box?" entry:"1568847046" modified:"1568924636" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568924636
+old [description:"replace classes" entry:"1568924154" modified:"1568924161" project:"phase_two" start:"1568924160" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+new [description:"replace classes" entry:"1568924154" modified:"1568924636" project:"phase_two" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+---
+time 1568927959
+old [description:"replace classes" entry:"1568924154" modified:"1568924636" project:"phase_two" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+new [description:"replace classes" entry:"1568924154" modified:"1568927959" project:"phase_two" start:"1568927959" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+---
+time 1568929560
+old [description:"replace classes" entry:"1568924154" modified:"1568927959" project:"phase_two" start:"1568927959" status:"pending" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+new [description:"replace classes" end:"1568929560" entry:"1568924154" modified:"1568929560" project:"phase_two" status:"completed" tags:"avalanche" uuid:"da956497-65f8-49af-8fc4-b1a1e44e44ed"]
+---
+time 1568930206
+old [description:"bounding box?" entry:"1568847046" modified:"1568924636" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+new [description:"bounding box?" end:"1568930206" entry:"1568847046" modified:"1568930206" project:"phase_two" status:"completed" tags:"avalanche" uuid:"d50fb8b5-1003-4149-a16e-8f61d05f5887"]
+---
+time 1568930225
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568930225" project:"phase_two" start:"1568930225" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1568932392
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add languaging to kml returning code" entry:"1568681581" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add languaging to kml returning code" end:"1568932391" entry:"1568681581" modified:"1568932392" project:"phase_two" status:"completed" tags:"avalanche" uuid:"8dc8132a-f2b0-4e67-ac3c-140ef162e23a"]
+---
+time 1568932616
+new [description:"document new geojson code" entry:"1568932616" modified:"1568932616" project:"phase_two" status:"pending" tags:"avalanche" uuid:"c2c86c0d-3dba-4873-8f0c-a0a86654c0b9"]
+---
+time 1568933462
+old [description:"document new geojson code" entry:"1568932616" modified:"1568932616" project:"phase_two" status:"pending" tags:"avalanche" uuid:"c2c86c0d-3dba-4873-8f0c-a0a86654c0b9"]
+new [description:"document new geojson code" end:"1568933462" entry:"1568932616" modified:"1568933462" project:"phase_two" status:"completed" tags:"avalanche" uuid:"c2c86c0d-3dba-4873-8f0c-a0a86654c0b9"]
+---
+time 1568933468
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568930225" project:"phase_two" start:"1568930225" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568933468" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1568933882
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d,d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"check the columns you're currently using against the requirements" entry:"1568681525" modified:"1568847136" project:"phase_two" status:"pending" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d,d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"check the columns you're currently using against the requirements" end:"1568933882" entry:"1568681525" modified:"1568933882" project:"phase_two" status:"completed" tags:"avalanche" uuid:"afc0e322-6b0b-4749-b69b-e24e80f65ce1"]
+---
+time 1569007091
+old [description:"plan next meeting" entry:"1568781712" modified:"1568781712" project:"the_left" status:"pending" tags:"interfuse" uuid:"61656365-2abb-4e2f-9967-1ce4419a29c0"]
+new [description:"plan next meeting" end:"1569007091" entry:"1568781712" modified:"1569007091" project:"the_left" status:"completed" tags:"interfuse" uuid:"61656365-2abb-4e2f-9967-1ce4419a29c0"]
+---
+time 1569007091
+old [description:"decide on software suite" entry:"1568781745" modified:"1568781745" project:"the_left" status:"pending" tags:"interfuse" uuid:"53b669d8-62c9-4a37-a3f0-7e093955dd1b"]
+new [description:"decide on software suite" end:"1569007091" entry:"1568781745" modified:"1569007091" project:"the_left" status:"completed" tags:"interfuse" uuid:"53b669d8-62c9-4a37-a3f0-7e093955dd1b"]
+---
+time 1569007713
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"create script to upload the content to Mapbox" entry:"1568681550" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"d56ea66c-bfd1-4d39-8b3b-ce2fe86dca56"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"create script to upload the content to Mapbox" end:"1569007711" entry:"1568681550" modified:"1569007713" project:"phase_two" status:"deleted" tags:"avalanche" uuid:"d56ea66c-bfd1-4d39-8b3b-ce2fe86dca56"]
+---
+time 1569007770
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1568933468" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569007770" project:"phase_two" start:"1569007770" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569010788
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569007770" project:"phase_two" start:"1569007770" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569010788" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569012344
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569010788" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569012344" project:"phase_two" start:"1569012344" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569012671
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569012344" project:"phase_two" start:"1569012344" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569012671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569052525
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569012671" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569052525" project:"phase_two" start:"1569052525" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569054305
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569052525" project:"phase_two" start:"1569052525" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569054305" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569054396
+old [description:"get in with the unions" entry:"1568361844" modified:"1568361844" project:"perm" status:"pending" uuid:"a1619edb-884e-46be-8f39-ef147f74c920"]
+new [description:"get in with the unions" end:"1569054396" entry:"1568361844" modified:"1569054396" project:"perm" status:"completed" uuid:"a1619edb-884e-46be-8f39-ef147f74c920"]
+---
+time 1569097077
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569054305" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569097077" project:"phase_two" start:"1569097077" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569101332
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569097077" project:"phase_two" start:"1569097077" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569101332" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569102389
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569101332" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569102389" project:"phase_two" start:"1569102389" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569102814
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569102389" project:"phase_two" start:"1569102389" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569102814" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569103183
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569102814" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569103183" project:"phase_two" start:"1569103183" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569103406
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569103183" project:"phase_two" start:"1569103183" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569103406" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569106166
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569103406" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569106166" project:"phase_two" start:"1569106166" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569106685
+new [description:"figure out how to url icons" entry:"1569106685" modified:"1569106685" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569108510
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569106166" project:"phase_two" start:"1569106166" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569108510" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569119041
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569108510" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569119041" project:"phase_two" start:"1569119040" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569119044
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569119041" project:"phase_two" start:"1569119040" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569119044" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569119047
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1568681709" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569119047" project:"phase_two" start:"1569119047" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569126770
+old [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" entry:"1568681633" modified:"1569119044" project:"phase_two" status:"pending" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+new [depends:"37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"return kml" end:"1569126769" entry:"1568681633" modified:"1569126770" project:"phase_two" status:"completed" tags:"avalanche" uuid:"948c7e7b-51aa-42b8-8c61-f04530c3ca52"]
+---
+time 1569126783
+new [description:"make geometry work" entry:"1569126783" modified:"1569126783" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"3801c2a9-ef07-4d98-9806-15855f0c69ca"]
+---
+time 1569127355
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569119047" project:"phase_two" start:"1569119047" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569127355" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569130221
+old [description:"make geometry work" entry:"1569126783" modified:"1569126783" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"3801c2a9-ef07-4d98-9806-15855f0c69ca"]
+new [description:"make geometry work" entry:"1569126783" modified:"1569130221" priority:"H" project:"phase_two" start:"1569130221" status:"pending" tags:"avalanche" uuid:"3801c2a9-ef07-4d98-9806-15855f0c69ca"]
+---
+time 1569136713
+old [description:"make geometry work" entry:"1569126783" modified:"1569130221" priority:"H" project:"phase_two" start:"1569130221" status:"pending" tags:"avalanche" uuid:"3801c2a9-ef07-4d98-9806-15855f0c69ca"]
+new [description:"make geometry work" end:"1569136713" entry:"1569126783" modified:"1569136713" priority:"H" project:"phase_two" status:"completed" tags:"avalanche" uuid:"3801c2a9-ef07-4d98-9806-15855f0c69ca"]
+---
+time 1569136734
+new [description:"make decision_points work" entry:"1569136734" modified:"1569136734" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6ca9a644-b209-4a84-92dd-2d229f82ac4f"]
+---
+time 1569136848
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569127355" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569136848" project:"phase_two" start:"1569136848" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569138454
+new [description:"now zones don't work anymore" entry:"1569138454" modified:"1569138454" project:"phase_two" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+---
+time 1569138471
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569136848" project:"phase_two" start:"1569136848" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569138471" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569138498
+old [description:"now zones don't work anymore" entry:"1569138454" modified:"1569138454" project:"phase_two" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+new [description:"now zones don't work anymore" entry:"1569138454" modified:"1569138498" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+---
+time 1569145110
+old [description:"create union specific cuts of the GND max program" entry:"1568361885" modified:"1568361885" project:"perm" status:"pending" uuid:"7e3bd305-aac7-4c56-bc2d-2c5e40f2d777"]
+new [description:"create union specific cuts of the GND max program" end:"1569145110" entry:"1568361885" modified:"1569145110" project:"perm" status:"completed" uuid:"7e3bd305-aac7-4c56-bc2d-2c5e40f2d777"]
+---
+time 1569197011
+old [description:"now zones don't work anymore" entry:"1569138454" modified:"1569138498" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+new [description:"now zones don't work anymore" entry:"1569138454" modified:"1569197011" priority:"H" project:"phase_two" start:"1569197011" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+---
+time 1569198561
+new [description:"figure out how pg does env vars" entry:"1569198561" modified:"1569198561" project:"the_left" status:"pending" tags:"interfuse" uuid:"d06aaa15-ab63-47f5-83be-037fa288b50f"]
+---
+time 1569198760
+old [description:"now zones don't work anymore" entry:"1569138454" modified:"1569197011" priority:"H" project:"phase_two" start:"1569197011" status:"pending" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+new [description:"now zones don't work anymore" end:"1569198760" entry:"1569138454" modified:"1569198760" priority:"H" project:"phase_two" status:"completed" tags:"avalanche" uuid:"4fc44b25-0453-420a-ad9e-4f2f42b699b4"]
+---
+time 1569198766
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569138471" project:"phase_two" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569198766" project:"phase_two" start:"1569198766" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569204531
+old [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" entry:"1568681626" modified:"1569198766" project:"phase_two" start:"1569198766" status:"pending" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+new [depends:"948c7e7b-51aa-42b8-8c61-f04530c3ca52,37ab6d9b-4864-4164-9104-bbcfcc1aec2d" description:"add styling to the kml returning code" end:"1569204531" entry:"1568681626" modified:"1569204531" project:"phase_two" status:"completed" tags:"avalanche" uuid:"37f8b25f-a938-4579-b524-546bdae1c76d"]
+---
+time 1569210750
+old [description:"figure out how to url icons" entry:"1569106685" modified:"1569106685" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+new [description:"figure out how to url icons" entry:"1569106685" modified:"1569210750" project:"phase_two" start:"1569210750" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569210809
+new [description:"all the lines don't have width" entry:"1569210809" modified:"1569210809" project:"phase_two" status:"pending" tags:"avalanche" uuid:"b04ef20a-5fff-4c1a-aea2-5bd51a929cda"]
+---
+time 1569210832
+old [description:"all the lines don't have width" entry:"1569210809" modified:"1569210809" project:"phase_two" status:"pending" tags:"avalanche" uuid:"b04ef20a-5fff-4c1a-aea2-5bd51a929cda"]
+new [description:"all the lines don't have width" entry:"1569210809" modified:"1569210832" project:"phase_two" start:"1569210832" status:"pending" tags:"avalanche" uuid:"b04ef20a-5fff-4c1a-aea2-5bd51a929cda"]
+---
+time 1569210835
+old [description:"figure out how to url icons" entry:"1569106685" modified:"1569210750" project:"phase_two" start:"1569210750" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+new [description:"figure out how to url icons" entry:"1569106685" modified:"1569210835" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569214154
+old [description:"all the lines don't have width" entry:"1569210809" modified:"1569210832" project:"phase_two" start:"1569210832" status:"pending" tags:"avalanche" uuid:"b04ef20a-5fff-4c1a-aea2-5bd51a929cda"]
+new [description:"all the lines don't have width" end:"1569214154" entry:"1569210809" modified:"1569214154" project:"phase_two" status:"completed" tags:"avalanche" uuid:"b04ef20a-5fff-4c1a-aea2-5bd51a929cda"]
+---
+time 1569214167
+old [description:"figure out how pg does env vars" entry:"1569198561" modified:"1569198561" project:"the_left" status:"pending" tags:"interfuse" uuid:"d06aaa15-ab63-47f5-83be-037fa288b50f"]
+new [description:"figure out how pg does env vars" end:"1569214167" entry:"1569198561" modified:"1569214167" project:"the_left" status:"completed" tags:"interfuse" uuid:"d06aaa15-ab63-47f5-83be-037fa288b50f"]
+---
+time 1569214173
+old [description:"figure out how to url icons" entry:"1569106685" modified:"1569210835" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+new [description:"figure out how to url icons" entry:"1569106685" modified:"1569214173" project:"phase_two" start:"1569214173" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569221772
+old [description:"figure out how to url icons" entry:"1569106685" modified:"1569214173" project:"phase_two" start:"1569214173" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+new [description:"figure out how to url icons" entry:"1569106685" modified:"1569221772" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569221780
+old [description:"make decision_points work" entry:"1569136734" modified:"1569136734" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6ca9a644-b209-4a84-92dd-2d229f82ac4f"]
+new [description:"make decision_points work" entry:"1569136734" modified:"1569221780" priority:"H" project:"phase_two" start:"1569221780" status:"pending" tags:"avalanche" uuid:"6ca9a644-b209-4a84-92dd-2d229f82ac4f"]
+---
+time 1569222139
+new [description:"return kmz" entry:"1569222139" modified:"1569222139" project:"phase_two" status:"pending" tags:"avalanche" uuid:"b3258baf-fa50-4abf-a618-d4cfff35844b"]
+---
+time 1569223639
+old [description:"figure out how to url icons" entry:"1569106685" modified:"1569221772" project:"phase_two" status:"pending" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+new [description:"figure out how to url icons" end:"1569223639" entry:"1569106685" modified:"1569223639" project:"phase_two" status:"completed" tags:"avalanche" uuid:"2ca10b06-f69e-4e8e-8d00-f28e7022492d"]
+---
+time 1569224195
+old [description:"make decision_points work" entry:"1569136734" modified:"1569221780" priority:"H" project:"phase_two" start:"1569221780" status:"pending" tags:"avalanche" uuid:"6ca9a644-b209-4a84-92dd-2d229f82ac4f"]
+new [description:"make decision_points work" entry:"1569136734" modified:"1569224195" priority:"H" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6ca9a644-b209-4a84-92dd-2d229f82ac4f"]
+---
+time 1569229594
+new [description:"refactoring" entry:"1569229594" modified:"1569229594" project:"phase_two" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+---
+time 1569229598
+old [description:"refactoring" entry:"1569229594" modified:"1569229594" project:"phase_two" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+new [description:"refactoring" entry:"1569229594" modified:"1569229598" project:"phase_two" start:"1569229597" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+---
+time 1569230582
+old [description:"refactoring" entry:"1569229594" modified:"1569229598" project:"phase_two" start:"1569229597" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+new [description:"refactoring" entry:"1569229594" modified:"1569230582" project:"phase_two" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+---
+time 1569273337
+old [description:"refactoring" entry:"1569229594" modified:"1569230582" project:"phase_two" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+new [description:"refactoring" entry:"1569229594" modified:"1569273337" project:"phase_two" start:"1569273337" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+---
+time 1569314177
+old [description:"refactoring" entry:"1569229594" modified:"1569273337" project:"phase_two" start:"1569273337" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+new [description:"refactoring" entry:"1569229594" modified:"1569314177" project:"phase_two" status:"pending" tags:"avalanche" uuid:"31ad59f1-5ae8-4ab0-b3cd-34be94a09513"]
+---
+time 1569607997
+new [description:"create a user datatype" entry:"1569607997" modified:"1569607997" project:"ceco" status:"pending" tags:"ryuuko" uuid:"8afc2a27-03c1-48c3-8e24-21c7b1b58f45"]
+---
+time 1569608040
+old [description:"create a user datatype" entry:"1569607997" modified:"1569607997" project:"ceco" status:"pending" tags:"ryuuko" uuid:"8afc2a27-03c1-48c3-8e24-21c7b1b58f45"]
+new [annotation_1569608040:"create a geospatial database that factors in transportation methods attatched to users to create the optimal route" description:"create a user datatype" entry:"1569607997" modified:"1569608040" project:"ceco" status:"pending" tags:"ryuuko" uuid:"8afc2a27-03c1-48c3-8e24-21c7b1b58f45"]
+---
+time 1569608055
+old [annotation_1569608040:"create a geospatial database that factors in transportation methods attatched to users to create the optimal route" description:"create a user datatype" entry:"1569607997" modified:"1569608040" project:"ceco" status:"pending" tags:"ryuuko" uuid:"8afc2a27-03c1-48c3-8e24-21c7b1b58f45"]
+new [annotation_1569608040:"create a geospatial database that factors in transportation methods attatched to users to create the optimal route" annotation_1569608055:"for distrobution" description:"create a user datatype" entry:"1569607997" modified:"1569608055" project:"ceco" status:"pending" tags:"ryuuko" uuid:"8afc2a27-03c1-48c3-8e24-21c7b1b58f45"]
+---
+time 1569960055
+new [description:"embed images in the KML" entry:"1569960055" modified:"1569960055" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6fe0ea5c-a128-4be9-8b8e-e1e577ea2f29"]
+---
+time 1569960109
+old [depends:"d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"upload to mapbox" entry:"1568846905" modified:"1568847127" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7de37a29-2913-450c-acf7-5122a4061dd8"]
+new [depends:"d50fb8b5-1003-4149-a16e-8f61d05f5887" description:"annotate they're running an express server?" entry:"1568846905" modified:"1569960109" project:"phase_two" status:"pending" tags:"avalanche" uuid:"7de37a29-2913-450c-acf7-5122a4061dd8"]
+---
+time 1569960120
+old [description:"get x220" entry:"1568781718" modified:"1568781718" project:"the_left" status:"pending" tags:"interfuse" uuid:"7f442d0b-9ba3-43f3-9be0-46f204dce81f"]
+new [description:"get x220" end:"1569960120" entry:"1568781718" modified:"1569960120" project:"the_left" status:"completed" tags:"interfuse" uuid:"7f442d0b-9ba3-43f3-9be0-46f204dce81f"]
+---
+time 1569960128
+old [description:"embed images in the KML" entry:"1569960055" modified:"1569960055" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6fe0ea5c-a128-4be9-8b8e-e1e577ea2f29"]
+new [description:"embed images in the KML" entry:"1569960055" modified:"1569960128" project:"phase_two" start:"1569960128" status:"pending" tags:"avalanche" uuid:"6fe0ea5c-a128-4be9-8b8e-e1e577ea2f29"]
+---
+time 1569962457
+old [description:"embed images in the KML" entry:"1569960055" modified:"1569960128" project:"phase_two" start:"1569960128" status:"pending" tags:"avalanche" uuid:"6fe0ea5c-a128-4be9-8b8e-e1e577ea2f29"]
+new [description:"embed images in the KML" entry:"1569960055" modified:"1569962457" project:"phase_two" status:"pending" tags:"avalanche" uuid:"6fe0ea5c-a128-4be9-8b8e-e1e577ea2f29"]
+---
+time 1569963778
+new [description:"send nathan examples of mastodon and plume" entry:"1569963778" modified:"1569963778" project:"social_network" status:"pending" tags:"MHCC" uuid:"29fb9fe4-6f4a-4bba-9462-8cc5bbc9f682"]
+---
+time 1569963788
+new [description:"work on a few next steps for the project" entry:"1569963788" modified:"1569963788" project:"social_network" status:"pending" tags:"MHCC" uuid:"cbb0f25c-c1e3-4a4f-baf8-067e84770134"]
+---
+time 1569976230
+new [description:"KML libraries" entry:"1569976230" modified:"1569976230" project:"the_left" status:"pending" tags:"ryuuko" uuid:"a562e9fc-bed8-4f83-8ce1-808aca1b71cc"]
+---

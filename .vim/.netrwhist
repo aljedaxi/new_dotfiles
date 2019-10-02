@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/aljedaxi/avalanch/phase_2/test'
+let g:netrw_dirhist_2='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify'
+let g:netrw_dirhist_3='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify/loader'
+let g:netrw_dirhist_4='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify'
+let g:netrw_dirhist_5='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify/src'
+let g:netrw_dirhist_6='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify'
+let g:netrw_dirhist_7='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify/styles'
+let g:netrw_dirhist_8='/home/aljedaxi/avalanch/phase_2/node_modules/code-prettify'
+let g:netrw_dirhist_9='/home/aljedaxi/under_the_gui/jinja2_latexing'
