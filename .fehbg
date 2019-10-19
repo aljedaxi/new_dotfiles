@@ -1,2 +1,4 @@
 #!/bin/sh
-feh --no-fehbg --bg-center --image-bg 'black' '/home/aljedaxi/.BG.png' 
+prefix='.TEST'
+mode='scale'
+feh --no-fehbg --bg-$mode --image-bg 'black' $HOME/$prefix.BG.png

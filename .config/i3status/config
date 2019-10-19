@@ -5,9 +5,9 @@ general {
 	interval = 30
 }
 
-order += "run_watch DHCP"
-order += "wireless wlan0"
-order += "ethernet eth0"
+#order += "run_watch DHCP"
+#order += "wireless wlan0"
+#order += "ethernet eth0"
 order += "disk /"
 order += "cpu_usage"
 order += "battery 0"
@@ -33,6 +33,7 @@ battery 0 {
    status_full = "☻ "
    path = "/sys/class/power_supply/BAT%d/uevent"
    low_threshold = 10
+   last_full_capacity = false
 }
 
 run_watch DHCP {
@@ -58,12 +59,12 @@ cpu_usage {
 }
 
 load {
-   format = "%5min"
+	format = "%5min"
 }
 
 cpu_temperature 0 {
-        format = "T: %degrees °C"
-        path = "/sys/devices/platform/coretemp.0/temp1_input"
+	format = "T: %degrees °C"
+	path = "/sys/devices/platform/coretemp.0/temp1_input"
 }
 
 disk "/" {

@@ -13,7 +13,7 @@ exec qutebrowser
 
 #starting up annoying stuff
 bindsym $mod+b exec /home/aljedaxi/Downloads/patchbay-Linux-8.1.0-x86_64.AppImage
-bindsym $mod+t exec /home/aljedaxi/Downloads/Telegram/Telegram/Telegram
+bindsym $mod+t exec telegram-desktop
 
 # use window title, but no border \\ 1 px border \\ nothing
 bindsym $mod+Shift+u border normal 0
@@ -28,7 +28,8 @@ for_window [class=".*"] border none
 
 # Font for window titles. Will also be used by the bar unless a different font # is used in the bar {} block below.
 # This font is widely installed, provides lots of unicode glyphs, right-to-left # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:DejaVu Sans Mono 8
+font xft: Dejavu Sans Mono 8
+# xft: Dejavu Sans Mono 8
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and # clear in small sizes. However, its unicode glyph coverage is limited, the old # X core fonts rendering does not support right-to-left and this being a bitmap # font, it doesn’t scale on retina/hidpi displays.
